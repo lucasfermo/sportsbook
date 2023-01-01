@@ -1,0 +1,61 @@
+,timestamp,hero,villain,market,line,line_type,price,hero_score,villain_score
+0,2022-11-04 16:17:49.727906,Valencia,Olympiakos,SPREAD,13.5,favorite,-115,58,71
+1,2022-11-04 16:17:49.727906,Olympiakos,Valencia,SPREAD,13.5,favorite,-115,71,58
+2,2022-11-04 16:17:49.727906,Valencia,Olympiakos,WIN,,,+1400,58,71
+3,2022-11-04 16:17:49.727906,Olympiakos,Valencia,WIN,,,-10000,71,58
+4,2022-11-04 16:17:49.727906,Valencia,Olympiakos,TOTAL,13.5,favorite,-145,58,71
+5,2022-11-04 16:17:49.727906,Olympiakos,Valencia,TOTAL,13.5,favorite,+110,71,58
+6,2022-11-04 16:17:49.823215,Fenerbahce,Barcelona,SPREAD,4.5,favorite,-110,34,37
+7,2022-11-04 16:17:49.823215,Barcelona,Fenerbahce,SPREAD,4.5,favorite,-120,37,34
+8,2022-11-04 16:17:49.823215,Fenerbahce,Barcelona,WIN,,,+205,34,37
+9,2022-11-04 16:17:49.823215,Barcelona,Fenerbahce,WIN,,,-280,37,34
+10,2022-11-04 16:17:49.823215,Fenerbahce,Barcelona,TOTAL,4.5,favorite,-120,34,37
+11,2022-11-04 16:17:49.823215,Barcelona,Fenerbahce,TOTAL,4.5,favorite,-110,37,34
+12,2022-11-04 16:17:49.919579,ASVEL Basket,Virtus Bologna,SPREAD,7.5,favorite,-120,16,20
+13,2022-11-04 16:17:49.919579,Virtus Bologna,ASVEL Basket,SPREAD,7.5,favorite,-110,20,16
+14,2022-11-04 16:17:49.919579,ASVEL Basket,Virtus Bologna,WIN,,,+260,16,20
+15,2022-11-04 16:17:49.919579,Virtus Bologna,ASVEL Basket,WIN,,,-370,20,16
+16,2022-11-04 16:17:49.919579,ASVEL Basket,Virtus Bologna,TOTAL,7.5,favorite,-115,16,20
+17,2022-11-04 16:17:49.919579,Virtus Bologna,ASVEL Basket,TOTAL,7.5,favorite,-115,20,16
+18,2022-11-04 16:17:50.012208,Crvena Zvezda,AS Monaco,SPREAD,7.5,favorite,-125,16,15
+19,2022-11-04 16:17:50.012208,AS Monaco,Crvena Zvezda,SPREAD,7.5,favorite,-105,15,16
+20,2022-11-04 16:17:50.012208,Crvena Zvezda,AS Monaco,WIN,,,+265,16,15
+21,2022-11-04 16:17:50.012208,AS Monaco,Crvena Zvezda,WIN,,,-370,15,16
+22,2022-11-04 16:17:50.012208,Crvena Zvezda,AS Monaco,TOTAL,7.5,favorite,+105,16,15
+23,2022-11-04 16:17:50.012208,AS Monaco,Crvena Zvezda,TOTAL,7.5,favorite,-135,15,16
+24,2022-11-04 16:17:50.107817,ADA Blois,BCM Gravelines-Dunkerque,SPREAD,6.5,underdog,-125,78,68
+25,2022-11-04 16:17:50.107817,BCM Gravelines-Dunkerque,ADA Blois,SPREAD,6.5,underdog,-105,68,78
+26,2022-11-04 16:17:50.107817,ADA Blois,BCM Gravelines-Dunkerque,WIN,,,-700,78,68
+27,2022-11-04 16:17:50.107817,BCM Gravelines-Dunkerque,ADA Blois,WIN,,,+425,68,78
+28,2022-11-04 16:17:50.107817,ADA Blois,BCM Gravelines-Dunkerque,TOTAL,6.5,underdog,-120,78,68
+29,2022-11-04 16:17:50.107817,BCM Gravelines-Dunkerque,ADA Blois,TOTAL,6.5,underdog,-110,68,78
+30,2022-11-04 16:17:50.207488,Nanterre,ESSM Le Portel,SPREAD,8.5,favorite,-115,52,63
+31,2022-11-04 16:17:50.207488,ESSM Le Portel,Nanterre,SPREAD,8.5,favorite,-115,63,52
+32,2022-11-04 16:17:50.207488,Nanterre,ESSM Le Portel,WIN,,,+900,52,63
+33,2022-11-04 16:17:50.207488,ESSM Le Portel,Nanterre,WIN,,,-2000,63,52
+34,2022-11-04 16:17:50.207488,Nanterre,ESSM Le Portel,TOTAL,8.5,favorite,-110,52,63
+35,2022-11-04 16:17:50.207488,ESSM Le Portel,Nanterre,TOTAL,8.5,favorite,-120,63,52
+36,2022-11-04 16:17:50.299186,Limoges CSP,Metropolitans 92,SPREAD,17.5,favorite,-120,24,42
+37,2022-11-04 16:17:50.299186,Metropolitans 92,Limoges CSP,SPREAD,17.5,favorite,-110,42,24
+38,2022-11-04 16:17:50.299186,Limoges CSP,Metropolitans 92,WIN,,,+1500,24,42
+39,2022-11-04 16:17:50.299186,Metropolitans 92,Limoges CSP,WIN,,,-6600,42,24
+40,2022-11-04 16:17:50.299186,Limoges CSP,Metropolitans 92,TOTAL,17.5,favorite,-125,24,42
+41,2022-11-04 16:17:50.299186,Metropolitans 92,Limoges CSP,TOTAL,17.5,favorite,-105,42,24
+42,2022-11-04 16:17:50.394195,ALM Évreux,Lille MBC,SPREAD,23.5,favorite,-135,56,80
+43,2022-11-04 16:17:50.394195,Lille MBC,ALM Évreux,SPREAD,23.5,favorite,-105,80,56
+44,2022-11-04 16:17:50.394195,ALM Évreux,Lille MBC,WIN,,,+1500,56,80
+45,2022-11-04 16:17:50.394195,Lille MBC,ALM Évreux,WIN,,,-7500,80,56
+46,2022-11-04 16:17:50.394195,ALM Évreux,Lille MBC,TOTAL,23.5,favorite,EVEN,56,80
+47,2022-11-04 16:17:50.394195,Lille MBC,ALM Évreux,TOTAL,23.5,favorite,-140,80,56
+48,2022-11-04 16:17:50.485511,Chalons Reims,Aix Maurienne,SPREAD,5.5,underdog,-140,61,56
+49,2022-11-04 16:17:50.485511,Aix Maurienne,Chalons Reims,SPREAD,5.5,underdog,EVEN,56,61
+50,2022-11-04 16:17:50.485511,Chalons Reims,Aix Maurienne,WIN,,,-525,61,56
+51,2022-11-04 16:17:50.485511,Aix Maurienne,Chalons Reims,WIN,,,+325,56,61
+52,2022-11-04 16:17:50.485511,Chalons Reims,Aix Maurienne,TOTAL,5.5,underdog,-120,61,56
+53,2022-11-04 16:17:50.485511,Aix Maurienne,Chalons Reims,TOTAL,5.5,underdog,-120,56,61
+54,2022-11-04 16:17:50.580299,Etoile Angers Basket,Stade Rochelais,SPREAD,15.5,underdog,-135,57,39
+55,2022-11-04 16:17:50.580299,Stade Rochelais,Etoile Angers Basket,SPREAD,15.5,underdog,-105,39,57
+56,2022-11-04 16:17:50.580299,Etoile Angers Basket,Stade Rochelais,WIN,,,-10000,57,39
+57,2022-11-04 16:17:50.580299,Stade Rochelais,Etoile Angers Basket,WIN,,,+1300,39,57
+58,2022-11-04 16:17:50.580299,Etoile Angers Basket,Stade Rochelais,TOTAL,15.5,underdog,+110,57,39
+59,2022-11-04 16:17:50.580299,Stade Rochelais,Etoile Angers Basket,TOTAL,15.5,underdog,-155,39,57

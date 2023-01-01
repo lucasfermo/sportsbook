@@ -1,0 +1,7 @@
+,timestamp,hero,villain,market,line,line_type,price,match_id,league,hero_score,villain_score
+0,2022-11-04 16:31:40.086686,Valencia,Olympiakos,SPREAD,5.5,favorite,-110,valencia-olympiakos-202211041500,euroleague,74,79
+1,2022-11-04 16:31:40.086686,Olympiakos,Valencia,SPREAD,5.5,favorite,-120,valencia-olympiakos-202211041500,euroleague,79,74
+2,2022-11-04 16:31:40.086686,Valencia,Olympiakos,WIN,,,+625,valencia-olympiakos-202211041500,euroleague,74,79
+3,2022-11-04 16:31:40.086686,Olympiakos,Valencia,WIN,,,-1000,valencia-olympiakos-202211041500,euroleague,79,74
+4,2022-11-04 16:31:40.086686,Valencia,Olympiakos,TOTAL,5.5,favorite,-115,valencia-olympiakos-202211041500,euroleague,74,79
+5,2022-11-04 16:31:40.086686,Olympiakos,Valencia,TOTAL,5.5,favorite,-115,valencia-olympiakos-202211041500,euroleague,79,74

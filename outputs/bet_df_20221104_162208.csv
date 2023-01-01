@@ -1,0 +1,289 @@
+,timestamp,hero,villain,market,line,line_type,price,hero_score,villain_score
+0,2022-11-04 16:22:02.757012,Valencia,Olympiakos,SPREAD,10.5,favorite,-120,62,73
+1,2022-11-04 16:22:02.757012,Olympiakos,Valencia,SPREAD,10.5,favorite,-110,73,62
+2,2022-11-04 16:22:02.757012,Valencia,Olympiakos,WIN,,,+1200,62,73
+3,2022-11-04 16:22:02.757012,Olympiakos,Valencia,WIN,,,-3300,73,62
+4,2022-11-04 16:22:02.757012,Valencia,Olympiakos,TOTAL,10.5,favorite,+110,62,73
+5,2022-11-04 16:22:02.757012,Olympiakos,Valencia,TOTAL,10.5,favorite,-145,73,62
+6,2022-11-04 16:22:02.849538,Fenerbahce,Barcelona,SPREAD,4.5,favorite,-105,36,39
+7,2022-11-04 16:22:02.849538,Barcelona,Fenerbahce,SPREAD,4.5,favorite,-125,39,36
+8,2022-11-04 16:22:02.849538,Fenerbahce,Barcelona,WIN,,,+220,36,39
+9,2022-11-04 16:22:02.849538,Barcelona,Fenerbahce,WIN,,,-300,39,36
+10,2022-11-04 16:22:02.849538,Fenerbahce,Barcelona,TOTAL,4.5,favorite,+115,36,39
+11,2022-11-04 16:22:02.849538,Barcelona,Fenerbahce,TOTAL,4.5,favorite,-150,39,36
+12,2022-11-04 16:22:02.945626,ASVEL Basket,Virtus Bologna,SPREAD,7.5,favorite,-120,18,22
+13,2022-11-04 16:22:02.945626,Virtus Bologna,ASVEL Basket,SPREAD,7.5,favorite,-110,22,18
+14,2022-11-04 16:22:02.945626,ASVEL Basket,Virtus Bologna,WIN,,,+260,18,22
+15,2022-11-04 16:22:02.945626,Virtus Bologna,ASVEL Basket,WIN,,,-370,22,18
+16,2022-11-04 16:22:02.945626,ASVEL Basket,Virtus Bologna,TOTAL,7.5,favorite,-115,18,22
+17,2022-11-04 16:22:02.945626,Virtus Bologna,ASVEL Basket,TOTAL,7.5,favorite,-115,22,18
+18,2022-11-04 16:22:03.050489,Crvena Zvezda,AS Monaco,SPREAD,7.5,favorite,-130,19,17
+19,2022-11-04 16:22:03.050489,AS Monaco,Crvena Zvezda,SPREAD,7.5,favorite,EVEN,17,19
+20,2022-11-04 16:22:03.050489,Crvena Zvezda,AS Monaco,WIN,,,+260,19,17
+21,2022-11-04 16:22:03.050489,AS Monaco,Crvena Zvezda,WIN,,,-360,17,19
+22,2022-11-04 16:22:03.050489,Crvena Zvezda,AS Monaco,TOTAL,7.5,favorite,-135,19,17
+23,2022-11-04 16:22:03.050489,AS Monaco,Crvena Zvezda,TOTAL,7.5,favorite,+105,17,19
+24,2022-11-04 16:22:03.148652,ADA Blois,BCM Gravelines-Dunkerque,SPREAD,10.5,underdog,-120,87,73
+25,2022-11-04 16:22:03.148652,BCM Gravelines-Dunkerque,ADA Blois,SPREAD,10.5,underdog,-110,73,87
+26,2022-11-04 16:22:03.148652,ADA Blois,BCM Gravelines-Dunkerque,WIN,,,-5000,87,73
+27,2022-11-04 16:22:03.148652,BCM Gravelines-Dunkerque,ADA Blois,WIN,,,+1400,73,87
+28,2022-11-04 16:22:03.148652,ADA Blois,BCM Gravelines-Dunkerque,TOTAL,10.5,underdog,-105,87,73
+29,2022-11-04 16:22:03.148652,BCM Gravelines-Dunkerque,ADA Blois,TOTAL,10.5,underdog,-125,73,87
+30,2022-11-04 16:22:03.250128,Nanterre,ESSM Le Portel,SPREAD,6.5,favorite,+110,57,65
+31,2022-11-04 16:22:03.250128,ESSM Le Portel,Nanterre,SPREAD,6.5,favorite,-145,65,57
+32,2022-11-04 16:22:03.250128,Nanterre,ESSM Le Portel,WIN,,,+675,57,65
+33,2022-11-04 16:22:03.250128,ESSM Le Portel,Nanterre,WIN,,,-1100,65,57
+34,2022-11-04 16:22:03.250128,Nanterre,ESSM Le Portel,TOTAL,6.5,favorite,+120,57,65
+35,2022-11-04 16:22:03.250128,ESSM Le Portel,Nanterre,TOTAL,6.5,favorite,-155,65,57
+36,2022-11-04 16:22:03.365472,Limoges CSP,Metropolitans 92,SPREAD,17.5,favorite,-125,24,42
+37,2022-11-04 16:22:03.365472,Metropolitans 92,Limoges CSP,SPREAD,17.5,favorite,-105,42,24
+38,2022-11-04 16:22:03.365472,Limoges CSP,Metropolitans 92,WIN,,,+1500,24,42
+39,2022-11-04 16:22:03.365472,Metropolitans 92,Limoges CSP,WIN,,,-6600,42,24
+40,2022-11-04 16:22:03.365472,Limoges CSP,Metropolitans 92,TOTAL,17.5,favorite,EVEN,24,42
+41,2022-11-04 16:22:03.365472,Metropolitans 92,Limoges CSP,TOTAL,17.5,favorite,-130,42,24
+42,2022-11-04 16:22:03.487911,ALM Évreux,Lille MBC,SPREAD,18.5,favorite,-150,64,82
+43,2022-11-04 16:22:03.487911,Lille MBC,ALM Évreux,SPREAD,18.5,favorite,+105,82,64
+44,2022-11-04 16:22:03.487911,ALM Évreux,Lille MBC,WIN,,,+1500,64,82
+45,2022-11-04 16:22:03.487911,Lille MBC,ALM Évreux,WIN,,,-7500,82,64
+46,2022-11-04 16:22:03.487911,ALM Évreux,Lille MBC,TOTAL,18.5,favorite,-120,64,82
+47,2022-11-04 16:22:03.487911,Lille MBC,ALM Évreux,TOTAL,18.5,favorite,-120,82,64
+48,2022-11-04 16:22:03.609237,Chalons Reims,Aix Maurienne,SPREAD,7.5,underdog,-120,66,60
+49,2022-11-04 16:22:03.609237,Aix Maurienne,Chalons Reims,SPREAD,7.5,underdog,-120,60,66
+50,2022-11-04 16:22:03.609237,Chalons Reims,Aix Maurienne,WIN,,,-750,66,60
+51,2022-11-04 16:22:03.609237,Aix Maurienne,Chalons Reims,WIN,,,+425,60,66
+52,2022-11-04 16:22:03.609237,Chalons Reims,Aix Maurienne,TOTAL,7.5,underdog,-125,66,60
+53,2022-11-04 16:22:03.609237,Aix Maurienne,Chalons Reims,TOTAL,7.5,underdog,-115,60,66
+54,2022-11-04 16:22:03.731536,Etoile Angers Basket,Stade Rochelais,SPREAD,18.5,underdog,-135,61,39
+55,2022-11-04 16:22:03.731536,Stade Rochelais,Etoile Angers Basket,SPREAD,18.5,underdog,-105,39,61
+56,2022-11-04 16:22:03.731536,Etoile Angers Basket,Stade Rochelais,WIN,,,-10000,61,39
+57,2022-11-04 16:22:03.731536,Stade Rochelais,Etoile Angers Basket,WIN,,,+1700,39,61
+58,2022-11-04 16:22:03.731536,Etoile Angers Basket,Stade Rochelais,TOTAL,18.5,underdog,-140,61,39
+59,2022-11-04 16:22:03.731536,Stade Rochelais,Etoile Angers Basket,TOTAL,18.5,underdog,EVEN,39,61
+60,2022-11-04 16:22:03.850718,Saint-Quentin,Alliance Sport Alsace,SPREAD,2.5,underdog,EVEN,61,59
+61,2022-11-04 16:22:03.850718,Alliance Sport Alsace,Saint-Quentin,SPREAD,2.5,underdog,-140,59,61
+62,2022-11-04 16:22:03.850718,Saint-Quentin,Alliance Sport Alsace,WIN,,,-160,61,59
+63,2022-11-04 16:22:03.850718,Alliance Sport Alsace,Saint-Quentin,WIN,,,+115,59,61
+64,2022-11-04 16:22:03.850718,Saint-Quentin,Alliance Sport Alsace,TOTAL,2.5,underdog,+110,61,59
+65,2022-11-04 16:22:03.850718,Alliance Sport Alsace,Saint-Quentin,TOTAL,2.5,underdog,-155,59,61
+66,2022-11-04 16:22:03.985509,Boulazac,Antibes Sharks,SPREAD,3.5,favorite,-115,35,38
+67,2022-11-04 16:22:03.985509,Antibes Sharks,Boulazac,SPREAD,3.5,favorite,-125,38,35
+68,2022-11-04 16:22:03.985509,Boulazac,Antibes Sharks,WIN,,,+155,35,38
+69,2022-11-04 16:22:03.985509,Antibes Sharks,Boulazac,WIN,,,-225,38,35
+70,2022-11-04 16:22:03.985509,Boulazac,Antibes Sharks,TOTAL,3.5,favorite,-120,35,38
+71,2022-11-04 16:22:03.985509,Antibes Sharks,Boulazac,TOTAL,3.5,favorite,-120,38,35
+72,2022-11-04 16:22:04.107397,Saint-Chamond,Vichy-Clermont Métropole,SPREAD,11.5,underdog,-120,49,35
+73,2022-11-04 16:22:04.107397,Vichy-Clermont Métropole,Saint-Chamond,SPREAD,11.5,underdog,-120,35,49
+74,2022-11-04 16:22:04.107397,Saint-Chamond,Vichy-Clermont Métropole,WIN,,,-1100,49,35
+75,2022-11-04 16:22:04.107397,Vichy-Clermont Métropole,Saint-Chamond,WIN,,,+550,35,49
+76,2022-11-04 16:22:04.107397,Saint-Chamond,Vichy-Clermont Métropole,TOTAL,11.5,underdog,-115,49,35
+77,2022-11-04 16:22:04.107397,Vichy-Clermont Métropole,Saint-Chamond,TOTAL,11.5,underdog,-125,35,49
+78,2022-11-04 16:22:04.231831,Cibona,ZKK Split,SPREAD,1.5,favorite,-130,53,52
+79,2022-11-04 16:22:04.231831,ZKK Split,Cibona,SPREAD,1.5,favorite,-110,52,53
+80,2022-11-04 16:22:04.231831,Cibona,ZKK Split,WIN,,,EVEN,53,52
+81,2022-11-04 16:22:04.231831,ZKK Split,Cibona,WIN,,,-140,52,53
+82,2022-11-04 16:22:04.231831,Cibona,ZKK Split,TOTAL,1.5,favorite,-130,53,52
+83,2022-11-04 16:22:04.231831,ZKK Split,Cibona,TOTAL,1.5,favorite,-110,52,53
+84,2022-11-04 16:22:04.341844,Kangoeres Mechelen,Limburg United,SPREAD,2.5,underdog,-155,41,36
+85,2022-11-04 16:22:04.341844,Limburg United,Kangoeres Mechelen,SPREAD,2.5,underdog,+110,36,41
+86,2022-11-04 16:22:04.341844,Kangoeres Mechelen,Limburg United,WIN,,,-225,41,36
+87,2022-11-04 16:22:04.341844,Limburg United,Kangoeres Mechelen,WIN,,,+155,36,41
+88,2022-11-04 16:22:04.341844,Kangoeres Mechelen,Limburg United,TOTAL,2.5,underdog,-120,41,36
+89,2022-11-04 16:22:04.341844,Limburg United,Kangoeres Mechelen,TOTAL,2.5,underdog,-120,36,41
+90,2022-11-04 16:22:04.449985,Okapi Aalst,Spirou Charleroi,SPREAD,14.5,underdog,+110,55,35
+91,2022-11-04 16:22:04.449985,Spirou Charleroi,Okapi Aalst,SPREAD,14.5,underdog,-155,35,55
+92,2022-11-04 16:22:04.449985,Okapi Aalst,Spirou Charleroi,WIN,,,-1600,55,35
+93,2022-11-04 16:22:04.449985,Spirou Charleroi,Okapi Aalst,WIN,,,+650,35,55
+94,2022-11-04 16:22:04.449985,Okapi Aalst,Spirou Charleroi,TOTAL,14.5,underdog,-110,55,35
+95,2022-11-04 16:22:04.449985,Spirou Charleroi,Okapi Aalst,TOTAL,14.5,underdog,-130,35,55
+96,2022-11-04 16:22:04.556702,RSW Liège,BC Oostende,SPREAD,30.5,favorite,-120,37,55
+97,2022-11-04 16:22:04.556702,BC Oostende,RSW Liège,SPREAD,30.5,favorite,-120,55,37
+98,2022-11-04 16:22:04.556702,RSW Liège,BC Oostende,WIN,,,+1500,37,55
+99,2022-11-04 16:22:04.556702,BC Oostende,RSW Liège,WIN,,,-10000,55,37
+100,2022-11-04 16:22:04.556702,RSW Liège,BC Oostende,TOTAL,30.5,favorite,-115,37,55
+101,2022-11-04 16:22:04.556702,BC Oostende,RSW Liège,TOTAL,30.5,favorite,-125,55,37
+102,2022-11-04 16:22:04.680787,Caledonia Gladiators,Bristol Flyers,SPREAD,17.5,favorite,-120,26,46
+103,2022-11-04 16:22:04.680787,Bristol Flyers,Caledonia Gladiators,SPREAD,17.5,favorite,-120,46,26
+104,2022-11-04 16:22:04.680787,Caledonia Gladiators,Bristol Flyers,WIN,,,+1000,26,46
+105,2022-11-04 16:22:04.680787,Bristol Flyers,Caledonia Gladiators,WIN,,,-6600,46,26
+106,2022-11-04 16:22:04.680787,Caledonia Gladiators,Bristol Flyers,TOTAL,17.5,favorite,-120,26,46
+107,2022-11-04 16:22:04.680787,Bristol Flyers,Caledonia Gladiators,TOTAL,17.5,favorite,-120,46,26
+108,2022-11-04 16:22:04.840632,Cheshire Phoenix,Leicester Riders,SPREAD,4.5,favorite,-120,40,38
+109,2022-11-04 16:22:04.840632,Leicester Riders,Cheshire Phoenix,SPREAD,4.5,favorite,-120,38,40
+110,2022-11-04 16:22:04.840632,Cheshire Phoenix,Leicester Riders,WIN,,,+180,40,38
+111,2022-11-04 16:22:04.840632,Leicester Riders,Cheshire Phoenix,WIN,,,-265,38,40
+112,2022-11-04 16:22:04.840632,Cheshire Phoenix,Leicester Riders,TOTAL,4.5,favorite,-130,40,38
+113,2022-11-04 16:22:04.840632,Leicester Riders,Cheshire Phoenix,TOTAL,4.5,favorite,-110,38,40
+114,2022-11-04 16:22:04.977362,Surrey Scorchers,Newcastle Eagles,SPREAD,7.5,favorite,-120,28,28
+115,2022-11-04 16:22:04.977362,Newcastle Eagles,Surrey Scorchers,SPREAD,7.5,favorite,-120,28,28
+116,2022-11-04 16:22:04.977362,Surrey Scorchers,Newcastle Eagles,WIN,,,+275,28,28
+117,2022-11-04 16:22:04.977362,Newcastle Eagles,Surrey Scorchers,WIN,,,-440,28,28
+118,2022-11-04 16:22:04.977362,Surrey Scorchers,Newcastle Eagles,TOTAL,7.5,favorite,-120,28,28
+119,2022-11-04 16:22:04.977362,Newcastle Eagles,Surrey Scorchers,TOTAL,7.5,favorite,-120,28,28
+120,2022-11-04 16:22:05.100955,Iraurgi SB,HLA Alicante,SPREAD,10.5,favorite,-115,36,42
+121,2022-11-04 16:22:05.100955,HLA Alicante,Iraurgi SB,SPREAD,10.5,favorite,-125,42,36
+122,2022-11-04 16:22:05.100955,Iraurgi SB,HLA Alicante,WIN,,,+475,36,42
+123,2022-11-04 16:22:05.100955,HLA Alicante,Iraurgi SB,WIN,,,-900,42,36
+124,2022-11-04 16:22:05.100955,Iraurgi SB,HLA Alicante,TOTAL,10.5,favorite,-120,36,42
+125,2022-11-04 16:22:05.100955,HLA Alicante,Iraurgi SB,TOTAL,10.5,favorite,-120,42,36
+126,2022-11-04 16:22:05.262718,Caceres Basket,Amics Castelló,SPREAD,8.5,underdog,+110,30,13
+127,2022-11-04 16:22:05.262718,Amics Castelló,Caceres Basket,SPREAD,8.5,underdog,-155,13,30
+128,2022-11-04 16:22:05.262718,Caceres Basket,Amics Castelló,WIN,,,-315,30,13
+129,2022-11-04 16:22:05.262718,Amics Castelló,Caceres Basket,WIN,,,+210,13,30
+130,2022-11-04 16:22:05.262718,Caceres Basket,Amics Castelló,TOTAL,8.5,underdog,+110,30,13
+131,2022-11-04 16:22:05.262718,Amics Castelló,Caceres Basket,TOTAL,8.5,underdog,-155,13,30
+132,2022-11-04 16:22:05.380872,Brooklyn Nets,Washington Wizards,SPREAD,3.0,favorite,-110,,
+133,2022-11-04 16:22:05.380872,Washington Wizards,Brooklyn Nets,SPREAD,3.0,favorite,-110,,
+134,2022-11-04 16:22:05.380872,Brooklyn Nets,Washington Wizards,WIN,,,+135,,
+135,2022-11-04 16:22:05.380872,Washington Wizards,Brooklyn Nets,WIN,,,-160,,
+136,2022-11-04 16:22:05.380872,Brooklyn Nets,Washington Wizards,TOTAL,3.0,favorite,-105,,
+137,2022-11-04 16:22:05.380872,Washington Wizards,Brooklyn Nets,TOTAL,3.0,favorite,-115,,
+138,2022-11-04 16:22:05.609908,Cleveland Cavaliers,Detroit Pistons,SPREAD,5.5,underdog,-110,,
+139,2022-11-04 16:22:05.609908,Detroit Pistons,Cleveland Cavaliers,SPREAD,5.5,underdog,-110,,
+140,2022-11-04 16:22:05.609908,Cleveland Cavaliers,Detroit Pistons,WIN,,,-225,,
+141,2022-11-04 16:22:05.609908,Detroit Pistons,Cleveland Cavaliers,WIN,,,+185,,
+142,2022-11-04 16:22:05.609908,Cleveland Cavaliers,Detroit Pistons,TOTAL,5.5,underdog,-110,,
+143,2022-11-04 16:22:05.609908,Detroit Pistons,Cleveland Cavaliers,TOTAL,5.5,underdog,-110,,
+144,2022-11-04 16:22:05.728928,Miami Heat,Indiana Pacers,SPREAD,3.5,underdog,-110,,
+145,2022-11-04 16:22:05.728928,Indiana Pacers,Miami Heat,SPREAD,3.5,underdog,-110,,
+146,2022-11-04 16:22:05.728928,Miami Heat,Indiana Pacers,WIN,,,-165,,
+147,2022-11-04 16:22:05.728928,Indiana Pacers,Miami Heat,WIN,,,+140,,
+148,2022-11-04 16:22:05.728928,Miami Heat,Indiana Pacers,TOTAL,3.5,underdog,-110,,
+149,2022-11-04 16:22:05.728928,Indiana Pacers,Miami Heat,TOTAL,3.5,underdog,-110,,
+150,2022-11-04 16:22:05.844085,New York Knicks,Philadelphia 76ers,SPREAD,3.5,favorite,-110,,
+151,2022-11-04 16:22:05.844085,Philadelphia 76ers,New York Knicks,SPREAD,3.5,favorite,-110,,
+152,2022-11-04 16:22:05.844085,New York Knicks,Philadelphia 76ers,WIN,,,+135,,
+153,2022-11-04 16:22:05.844085,Philadelphia 76ers,New York Knicks,WIN,,,-160,,
+154,2022-11-04 16:22:05.844085,New York Knicks,Philadelphia 76ers,TOTAL,3.5,favorite,-110,,
+155,2022-11-04 16:22:05.844085,Philadelphia 76ers,New York Knicks,TOTAL,3.5,favorite,-110,,
+156,2022-11-04 16:22:05.957578,Chicago Bulls,Boston Celtics,SPREAD,7.0,favorite,-105,,
+157,2022-11-04 16:22:05.957578,Boston Celtics,Chicago Bulls,SPREAD,7.0,favorite,-115,,
+158,2022-11-04 16:22:05.957578,Chicago Bulls,Boston Celtics,WIN,,,+235,,
+159,2022-11-04 16:22:05.957578,Boston Celtics,Chicago Bulls,WIN,,,-285,,
+160,2022-11-04 16:22:05.957578,Chicago Bulls,Boston Celtics,TOTAL,7.0,favorite,-115,,
+161,2022-11-04 16:22:05.957578,Boston Celtics,Chicago Bulls,TOTAL,7.0,favorite,-105,,
+162,2022-11-04 16:22:06.067930,Charlotte Hornets,Memphis Grizzlies,SPREAD,11.0,favorite,-110,,
+163,2022-11-04 16:22:06.067930,Memphis Grizzlies,Charlotte Hornets,SPREAD,11.0,favorite,-110,,
+164,2022-11-04 16:22:06.067930,Charlotte Hornets,Memphis Grizzlies,WIN,,,+450,,
+165,2022-11-04 16:22:06.067930,Memphis Grizzlies,Charlotte Hornets,WIN,,,-650,,
+166,2022-11-04 16:22:06.067930,Charlotte Hornets,Memphis Grizzlies,TOTAL,11.0,favorite,-110,,
+167,2022-11-04 16:22:06.067930,Memphis Grizzlies,Charlotte Hornets,TOTAL,11.0,favorite,-110,,
+168,2022-11-04 16:22:06.184927,Golden State Warriors,New Orleans Pelicans,SPREAD,10.5,favorite,-110,,
+169,2022-11-04 16:22:06.184927,New Orleans Pelicans,Golden State Warriors,SPREAD,10.5,favorite,-110,,
+170,2022-11-04 16:22:06.184927,Golden State Warriors,New Orleans Pelicans,WIN,,,+370,,
+171,2022-11-04 16:22:06.184927,New Orleans Pelicans,Golden State Warriors,WIN,,,-510,,
+172,2022-11-04 16:22:06.184927,Golden State Warriors,New Orleans Pelicans,TOTAL,10.5,favorite,-110,,
+173,2022-11-04 16:22:06.184927,New Orleans Pelicans,Golden State Warriors,TOTAL,10.5,favorite,-110,,
+174,2022-11-04 16:22:06.309342,L.A. Clippers,San Antonio Spurs,SPREAD,3.5,underdog,-110,,
+175,2022-11-04 16:22:06.309342,San Antonio Spurs,L.A. Clippers,SPREAD,3.5,underdog,-110,,
+176,2022-11-04 16:22:06.309342,L.A. Clippers,San Antonio Spurs,WIN,,,-165,,
+177,2022-11-04 16:22:06.309342,San Antonio Spurs,L.A. Clippers,WIN,,,+140,,
+178,2022-11-04 16:22:06.309342,L.A. Clippers,San Antonio Spurs,TOTAL,3.5,underdog,-110,,
+179,2022-11-04 16:22:06.309342,San Antonio Spurs,L.A. Clippers,TOTAL,3.5,underdog,-110,,
+180,2022-11-04 16:22:06.430988,Toronto Raptors,Dallas Mavericks,SPREAD,3.5,favorite,-110,,
+181,2022-11-04 16:22:06.430988,Dallas Mavericks,Toronto Raptors,SPREAD,3.5,favorite,-110,,
+182,2022-11-04 16:22:06.430988,Toronto Raptors,Dallas Mavericks,WIN,,,+135,,
+183,2022-11-04 16:22:06.430988,Dallas Mavericks,Toronto Raptors,WIN,,,-160,,
+184,2022-11-04 16:22:06.430988,Toronto Raptors,Dallas Mavericks,TOTAL,3.5,favorite,-110,,
+185,2022-11-04 16:22:06.430988,Dallas Mavericks,Toronto Raptors,TOTAL,3.5,favorite,-110,,
+186,2022-11-04 16:22:06.549505,Milwaukee Bucks,Minnesota Timberwolves,SPREAD,3.5,underdog,-110,,
+187,2022-11-04 16:22:06.549505,Minnesota Timberwolves,Milwaukee Bucks,SPREAD,3.5,underdog,-110,,
+188,2022-11-04 16:22:06.549505,Milwaukee Bucks,Minnesota Timberwolves,WIN,,,-160,,
+189,2022-11-04 16:22:06.549505,Minnesota Timberwolves,Milwaukee Bucks,WIN,,,+135,,
+190,2022-11-04 16:22:06.549505,Milwaukee Bucks,Minnesota Timberwolves,TOTAL,3.5,underdog,-110,,
+191,2022-11-04 16:22:06.549505,Minnesota Timberwolves,Milwaukee Bucks,TOTAL,3.5,underdog,-110,,
+192,2022-11-04 16:22:06.665757,Portland Trail Blazers,Phoenix Suns,SPREAD,12.0,favorite,-110,,
+193,2022-11-04 16:22:06.665757,Phoenix Suns,Portland Trail Blazers,SPREAD,12.0,favorite,-110,,
+194,2022-11-04 16:22:06.665757,Portland Trail Blazers,Phoenix Suns,WIN,,,+450,,
+195,2022-11-04 16:22:06.665757,Phoenix Suns,Portland Trail Blazers,WIN,,,-650,,
+196,2022-11-04 16:22:06.665757,Portland Trail Blazers,Phoenix Suns,TOTAL,12.0,favorite,-110,,
+197,2022-11-04 16:22:06.665757,Phoenix Suns,Portland Trail Blazers,TOTAL,12.0,favorite,-110,,
+198,2022-11-04 16:22:06.780041,Utah Jazz,Los Angeles Lakers,SPREAD,3.5,favorite,-110,,
+199,2022-11-04 16:22:06.780041,Los Angeles Lakers,Utah Jazz,SPREAD,3.5,favorite,-110,,
+200,2022-11-04 16:22:06.780041,Utah Jazz,Los Angeles Lakers,WIN,,,+135,,
+201,2022-11-04 16:22:06.780041,Los Angeles Lakers,Utah Jazz,WIN,,,-160,,
+202,2022-11-04 16:22:06.780041,Utah Jazz,Los Angeles Lakers,TOTAL,3.5,favorite,-110,,
+203,2022-11-04 16:22:06.780041,Los Angeles Lakers,Utah Jazz,TOTAL,3.5,favorite,-110,,
+204,2022-11-04 16:22:06.898941,Paulistano,Unifacisa,SPREAD,5.0,favorite,-120,,
+205,2022-11-04 16:22:06.898941,Unifacisa,Paulistano,SPREAD,5.0,favorite,-110,,
+206,2022-11-04 16:22:06.898941,Paulistano,Unifacisa,WIN,,,+165,,
+207,2022-11-04 16:22:06.898941,Unifacisa,Paulistano,WIN,,,-210,,
+208,2022-11-04 16:22:06.898941,Paulistano,Unifacisa,TOTAL,5.0,favorite,-120,,
+209,2022-11-04 16:22:06.898941,Unifacisa,Paulistano,TOTAL,5.0,favorite,-110,,
+210,2022-11-04 16:22:07.015404,SC Corinthians Paulista,São Paulo,SPREAD,7.5,favorite,-120,,
+211,2022-11-04 16:22:07.015404,São Paulo,SC Corinthians Paulista,SPREAD,7.5,favorite,-110,,
+212,2022-11-04 16:22:07.015404,SC Corinthians Paulista,São Paulo,WIN,,,+225,,
+213,2022-11-04 16:22:07.015404,São Paulo,SC Corinthians Paulista,WIN,,,-310,,
+214,2022-11-04 16:22:07.015404,SC Corinthians Paulista,São Paulo,TOTAL,7.5,favorite,-115,,
+215,2022-11-04 16:22:07.015404,São Paulo,SC Corinthians Paulista,TOTAL,7.5,favorite,-115,,
+216,2022-11-04 16:22:07.139099,Brisbane Bullets,Tasmania JackJumpers,SPREAD,2.5,favorite,-120,,
+217,2022-11-04 16:22:07.139099,Tasmania JackJumpers,Brisbane Bullets,SPREAD,2.5,favorite,-110,,
+218,2022-11-04 16:22:07.139099,Brisbane Bullets,Tasmania JackJumpers,WIN,,,+110,,
+219,2022-11-04 16:22:07.139099,Tasmania JackJumpers,Brisbane Bullets,WIN,,,-145,,
+220,2022-11-04 16:22:07.139099,Brisbane Bullets,Tasmania JackJumpers,TOTAL,2.5,favorite,-115,,
+221,2022-11-04 16:22:07.139099,Tasmania JackJumpers,Brisbane Bullets,TOTAL,2.5,favorite,-115,,
+222,2022-11-04 16:22:07.254155,Perth Wildcats,Adelaide 36ers,SPREAD,2.0,favorite,-110,,
+223,2022-11-04 16:22:07.254155,Adelaide 36ers,Perth Wildcats,SPREAD,2.0,favorite,-120,,
+224,2022-11-04 16:22:07.254155,Perth Wildcats,Adelaide 36ers,WIN,,,+110,,
+225,2022-11-04 16:22:07.254155,Adelaide 36ers,Perth Wildcats,WIN,,,-145,,
+226,2022-11-04 16:22:07.254155,Perth Wildcats,Adelaide 36ers,TOTAL,2.0,favorite,-120,,
+227,2022-11-04 16:22:07.254155,Adelaide 36ers,Perth Wildcats,TOTAL,2.0,favorite,-110,,
+228,2022-11-04 16:22:07.374858,Sydney Kings,New Zealand Breakers,SPREAD,2.5,underdog,-110,,
+229,2022-11-04 16:22:07.374858,New Zealand Breakers,Sydney Kings,SPREAD,2.5,underdog,-120,,
+230,2022-11-04 16:22:07.374858,Sydney Kings,New Zealand Breakers,WIN,,,-136,,
+231,2022-11-04 16:22:07.374858,New Zealand Breakers,Sydney Kings,WIN,,,+109,,
+232,2022-11-04 16:22:07.374858,Sydney Kings,New Zealand Breakers,TOTAL,2.5,underdog,-115,,
+233,2022-11-04 16:22:07.374858,New Zealand Breakers,Sydney Kings,TOTAL,2.5,underdog,-115,,
+234,2022-11-04 16:22:07.497429,Chorale Roanne,SLUC Nancy,SPREAD,3.0,favorite,-105,,
+235,2022-11-04 16:22:07.497429,SLUC Nancy,Chorale Roanne,SPREAD,3.0,favorite,-115,,
+236,2022-11-04 16:22:07.497429,Chorale Roanne,SLUC Nancy,WIN,,,+130,,
+237,2022-11-04 16:22:07.497429,SLUC Nancy,Chorale Roanne,WIN,,,-155,,
+238,2022-11-04 16:22:07.497429,Chorale Roanne,SLUC Nancy,TOTAL,3.0,favorite,-115,,
+239,2022-11-04 16:22:07.497429,SLUC Nancy,Chorale Roanne,TOTAL,3.0,favorite,-105,,
+240,2022-11-04 16:22:07.616134,Élan Béarnais,Cholet,SPREAD,7.0,favorite,-105,,
+241,2022-11-04 16:22:07.616134,Cholet,Élan Béarnais,SPREAD,7.0,favorite,-115,,
+242,2022-11-04 16:22:07.616134,Élan Béarnais,Cholet,WIN,,,+245,,
+243,2022-11-04 16:22:07.616134,Cholet,Élan Béarnais,WIN,,,-310,,
+244,2022-11-04 16:22:07.616134,Élan Béarnais,Cholet,TOTAL,7.0,favorite,-110,,
+245,2022-11-04 16:22:07.616134,Cholet,Élan Béarnais,TOTAL,7.0,favorite,-110,,
+246,2022-11-04 16:22:07.729461,Donar Groningen,Apollo Amsterdam,SPREAD,17.0,underdog,-120,,
+247,2022-11-04 16:22:07.729461,Apollo Amsterdam,Donar Groningen,SPREAD,17.0,underdog,-120,,
+248,2022-11-04 16:22:07.729461,Donar Groningen,Apollo Amsterdam,WIN,,,-1800,,
+249,2022-11-04 16:22:07.729461,Apollo Amsterdam,Donar Groningen,WIN,,,+700,,
+250,2022-11-04 16:22:07.729461,Donar Groningen,Apollo Amsterdam,TOTAL,17.0,underdog,-120,,
+251,2022-11-04 16:22:07.729461,Apollo Amsterdam,Donar Groningen,TOTAL,17.0,underdog,-120,,
+252,2022-11-04 16:22:07.848468,Güssing/Jennersdorf,Mistelbach Mustangs,SPREAD,7.0,favorite,-115,,
+253,2022-11-04 16:22:07.848468,Mistelbach Mustangs,Güssing/Jennersdorf,SPREAD,7.0,favorite,-125,,
+254,2022-11-04 16:22:07.848468,Güssing/Jennersdorf,Mistelbach Mustangs,WIN,,,+220,,
+255,2022-11-04 16:22:07.848468,Mistelbach Mustangs,Güssing/Jennersdorf,WIN,,,-330,,
+256,2022-11-04 16:22:07.848468,Güssing/Jennersdorf,Mistelbach Mustangs,TOTAL,7.0,favorite,-125,,
+257,2022-11-04 16:22:07.848468,Mistelbach Mustangs,Güssing/Jennersdorf,TOTAL,7.0,favorite,-115,,
+258,2022-11-04 16:22:07.969848,BC Vienna,Vienna Timberwolves,SPREAD,16.5,underdog,-120,,
+259,2022-11-04 16:22:07.969848,Vienna Timberwolves,BC Vienna,SPREAD,16.5,underdog,-120,,
+260,2022-11-04 16:22:07.969848,BC Vienna,Vienna Timberwolves,WIN,,,-2500,,
+261,2022-11-04 16:22:07.969848,Vienna Timberwolves,BC Vienna,WIN,,,+700,,
+262,2022-11-04 16:22:07.969848,BC Vienna,Vienna Timberwolves,TOTAL,16.5,underdog,-120,,
+263,2022-11-04 16:22:07.969848,Vienna Timberwolves,BC Vienna,TOTAL,16.5,underdog,-120,,
+264,2022-11-04 16:22:08.087455,Fürstenfeld Panthers,Flyers Wels,SPREAD,18.5,favorite,-115,,
+265,2022-11-04 16:22:08.087455,Flyers Wels,Fürstenfeld Panthers,SPREAD,18.5,favorite,-125,,
+266,2022-11-04 16:22:08.087455,Fürstenfeld Panthers,Flyers Wels,WIN,,,+850,,
+267,2022-11-04 16:22:08.087455,Flyers Wels,Fürstenfeld Panthers,WIN,,,-2500,,
+268,2022-11-04 16:22:08.087455,Fürstenfeld Panthers,Flyers Wels,TOTAL,18.5,favorite,-120,,
+269,2022-11-04 16:22:08.087455,Flyers Wels,Fürstenfeld Panthers,TOTAL,18.5,favorite,-120,,
+270,2022-11-04 16:22:08.206016,Klosterneuburg Dukes,BBC Nord Dragonz,SPREAD,4.0,underdog,-125,,
+271,2022-11-04 16:22:08.206016,BBC Nord Dragonz,Klosterneuburg Dukes,SPREAD,4.0,underdog,-115,,
+272,2022-11-04 16:22:08.206016,Klosterneuburg Dukes,BBC Nord Dragonz,WIN,,,-205,,
+273,2022-11-04 16:22:08.206016,BBC Nord Dragonz,Klosterneuburg Dukes,WIN,,,+148,,
+274,2022-11-04 16:22:08.206016,Klosterneuburg Dukes,BBC Nord Dragonz,TOTAL,4.0,underdog,-120,,
+275,2022-11-04 16:22:08.206016,BBC Nord Dragonz,Klosterneuburg Dukes,TOTAL,4.0,underdog,-120,,
+276,2022-11-04 16:22:08.325082,Swans Gmunden,SKN Saint Pölten,SPREAD,9.5,underdog,-120,,
+277,2022-11-04 16:22:08.325082,SKN Saint Pölten,Swans Gmunden,SPREAD,9.5,underdog,-120,,
+278,2022-11-04 16:22:08.325082,Swans Gmunden,SKN Saint Pölten,WIN,,,-550,,
+279,2022-11-04 16:22:08.325082,SKN Saint Pölten,Swans Gmunden,WIN,,,+300,,
+280,2022-11-04 16:22:08.325082,Swans Gmunden,SKN Saint Pölten,TOTAL,9.5,underdog,-120,,
+281,2022-11-04 16:22:08.325082,SKN Saint Pölten,Swans Gmunden,TOTAL,9.5,underdog,-120,,
+282,2022-11-04 16:22:08.446597,Traiskirchen Lions,UBSC Graz,SPREAD,10.0,favorite,-125,,
+283,2022-11-04 16:22:08.446597,UBSC Graz,Traiskirchen Lions,SPREAD,10.0,favorite,-115,,
+284,2022-11-04 16:22:08.446597,Traiskirchen Lions,UBSC Graz,WIN,,,+350,,
+285,2022-11-04 16:22:08.446597,UBSC Graz,Traiskirchen Lions,WIN,,,-600,,
+286,2022-11-04 16:22:08.446597,Traiskirchen Lions,UBSC Graz,TOTAL,10.0,favorite,-125,,
+287,2022-11-04 16:22:08.446597,UBSC Graz,Traiskirchen Lions,TOTAL,10.0,favorite,-115,,

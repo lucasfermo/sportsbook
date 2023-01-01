@@ -1,0 +1,463 @@
+,timestamp,hero,villain,market,line,line_type,price,match_id,league,sport,hero_score,villain_score
+0,2022-11-04 16:46:20.474214,Valencia,Olympiakos,SPREAD,4.5,favorite,-135,valencia-olympiakos-202211041500,euroleague,basketball,80,82
+1,2022-11-04 16:46:20.474214,Olympiakos,Valencia,SPREAD,4.5,favorite,+105,valencia-olympiakos-202211041500,euroleague,basketball,82,80
+2,2022-11-04 16:46:20.474214,Valencia,Olympiakos,WIN,,,+190,valencia-olympiakos-202211041500,euroleague,basketball,80,82
+3,2022-11-04 16:46:20.474214,Olympiakos,Valencia,WIN,,,-260,valencia-olympiakos-202211041500,euroleague,basketball,82,80
+4,2022-11-04 16:46:20.474214,Valencia,Olympiakos,TOTAL,4.5,favorite,-115,valencia-olympiakos-202211041500,euroleague,basketball,80,82
+5,2022-11-04 16:46:20.474214,Olympiakos,Valencia,TOTAL,4.5,favorite,-115,valencia-olympiakos-202211041500,euroleague,basketball,82,80
+6,2022-11-04 16:46:20.583583,Fenerbahce,Barcelona,SPREAD,8.5,favorite,-120,fenerbahce-barcelona-202211041530,euroleague,basketball,42,50
+7,2022-11-04 16:46:20.583583,Barcelona,Fenerbahce,SPREAD,8.5,favorite,-110,fenerbahce-barcelona-202211041530,euroleague,basketball,50,42
+8,2022-11-04 16:46:20.583583,Fenerbahce,Barcelona,WIN,,,+475,fenerbahce-barcelona-202211041530,euroleague,basketball,42,50
+9,2022-11-04 16:46:20.583583,Barcelona,Fenerbahce,WIN,,,-800,fenerbahce-barcelona-202211041530,euroleague,basketball,50,42
+10,2022-11-04 16:46:20.583583,Fenerbahce,Barcelona,TOTAL,8.5,favorite,-115,fenerbahce-barcelona-202211041530,euroleague,basketball,42,50
+11,2022-11-04 16:46:20.583583,Barcelona,Fenerbahce,TOTAL,8.5,favorite,-115,fenerbahce-barcelona-202211041530,euroleague,basketball,50,42
+12,2022-11-04 16:46:20.715757,ASVEL Basket,Virtus Bologna,SPREAD,14.5,favorite,-115,asvel-basket-virtus-bologna-202211041600,euroleague,basketball,33,48
+13,2022-11-04 16:46:20.715757,Virtus Bologna,ASVEL Basket,SPREAD,14.5,favorite,-115,asvel-basket-virtus-bologna-202211041600,euroleague,basketball,48,33
+14,2022-11-04 16:46:20.715757,ASVEL Basket,Virtus Bologna,WIN,,,+1200,asvel-basket-virtus-bologna-202211041600,euroleague,basketball,33,48
+15,2022-11-04 16:46:20.715757,Virtus Bologna,ASVEL Basket,WIN,,,-3300,asvel-basket-virtus-bologna-202211041600,euroleague,basketball,48,33
+16,2022-11-04 16:46:20.715757,ASVEL Basket,Virtus Bologna,TOTAL,14.5,favorite,EVEN,asvel-basket-virtus-bologna-202211041600,euroleague,basketball,33,48
+17,2022-11-04 16:46:20.715757,Virtus Bologna,ASVEL Basket,TOTAL,14.5,favorite,-130,asvel-basket-virtus-bologna-202211041600,euroleague,basketball,48,33
+18,2022-11-04 16:46:20.863953,Crvena Zvezda,AS Monaco,SPREAD,8.5,favorite,-115,crvena-zvezda-as-monaco-202211041600,euroleague,basketball,31,36
+19,2022-11-04 16:46:20.863953,AS Monaco,Crvena Zvezda,SPREAD,8.5,favorite,-115,crvena-zvezda-as-monaco-202211041600,euroleague,basketball,36,31
+20,2022-11-04 16:46:20.863953,Crvena Zvezda,AS Monaco,WIN,,,+400,crvena-zvezda-as-monaco-202211041600,euroleague,basketball,31,36
+21,2022-11-04 16:46:20.863953,AS Monaco,Crvena Zvezda,WIN,,,-650,crvena-zvezda-as-monaco-202211041600,euroleague,basketball,36,31
+22,2022-11-04 16:46:20.863953,Crvena Zvezda,AS Monaco,TOTAL,8.5,favorite,-120,crvena-zvezda-as-monaco-202211041600,euroleague,basketball,31,36
+23,2022-11-04 16:46:20.863953,AS Monaco,Crvena Zvezda,TOTAL,8.5,favorite,-110,crvena-zvezda-as-monaco-202211041600,euroleague,basketball,36,31
+24,2022-11-04 16:46:21.017880,Limoges CSP,Metropolitans 92,SPREAD,13.5,favorite,EVEN,limoges-csp-metropolitans-92-202211041530,lnb-pro-a,basketball,38,52
+25,2022-11-04 16:46:21.017880,Metropolitans 92,Limoges CSP,SPREAD,13.5,favorite,-130,limoges-csp-metropolitans-92-202211041530,lnb-pro-a,basketball,52,38
+26,2022-11-04 16:46:21.017880,Limoges CSP,Metropolitans 92,WIN,,,+1500,limoges-csp-metropolitans-92-202211041530,lnb-pro-a,basketball,38,52
+27,2022-11-04 16:46:21.017880,Metropolitans 92,Limoges CSP,WIN,,,-5000,limoges-csp-metropolitans-92-202211041530,lnb-pro-a,basketball,52,38
+28,2022-11-04 16:46:21.017880,Limoges CSP,Metropolitans 92,TOTAL,13.5,favorite,-110,limoges-csp-metropolitans-92-202211041530,lnb-pro-a,basketball,38,52
+29,2022-11-04 16:46:21.017880,Metropolitans 92,Limoges CSP,TOTAL,13.5,favorite,-120,limoges-csp-metropolitans-92-202211041530,lnb-pro-a,basketball,52,38
+30,2022-11-04 16:46:21.135381,Chalons Reims,Aix Maurienne,SPREAD,4.5,underdog,-120,champagne-basket-amsb-202211041500,pro-b,basketball,75,74
+31,2022-11-04 16:46:21.135381,Aix Maurienne,Chalons Reims,SPREAD,4.5,underdog,-120,champagne-basket-amsb-202211041500,pro-b,basketball,74,75
+32,2022-11-04 16:46:21.135381,Chalons Reims,Aix Maurienne,WIN,,,-245,champagne-basket-amsb-202211041500,pro-b,basketball,75,74
+33,2022-11-04 16:46:21.135381,Aix Maurienne,Chalons Reims,WIN,,,+170,champagne-basket-amsb-202211041500,pro-b,basketball,74,75
+34,2022-11-04 16:46:21.135381,Chalons Reims,Aix Maurienne,TOTAL,4.5,underdog,+110,champagne-basket-amsb-202211041500,pro-b,basketball,75,74
+35,2022-11-04 16:46:21.135381,Aix Maurienne,Chalons Reims,TOTAL,4.5,underdog,-155,champagne-basket-amsb-202211041500,pro-b,basketball,74,75
+36,2022-11-04 16:46:21.260454,Etoile Angers Basket,Stade Rochelais,SPREAD,10.5,underdog,+105,etoile-angers-basket-stade-rochelais-202211041500,pro-b,basketball,76,65
+37,2022-11-04 16:46:21.260454,Stade Rochelais,Etoile Angers Basket,SPREAD,10.5,underdog,-150,etoile-angers-basket-stade-rochelais-202211041500,pro-b,basketball,65,76
+38,2022-11-04 16:46:21.260454,Etoile Angers Basket,Stade Rochelais,WIN,,,-7500,etoile-angers-basket-stade-rochelais-202211041500,pro-b,basketball,76,65
+39,2022-11-04 16:46:21.260454,Stade Rochelais,Etoile Angers Basket,WIN,,,+1000,etoile-angers-basket-stade-rochelais-202211041500,pro-b,basketball,65,76
+40,2022-11-04 16:46:21.260454,Etoile Angers Basket,Stade Rochelais,TOTAL,10.5,underdog,-115,etoile-angers-basket-stade-rochelais-202211041500,pro-b,basketball,76,65
+41,2022-11-04 16:46:21.260454,Stade Rochelais,Etoile Angers Basket,TOTAL,10.5,underdog,-125,etoile-angers-basket-stade-rochelais-202211041500,pro-b,basketball,65,76
+42,2022-11-04 16:46:21.381379,Saint-Quentin,Alliance Sport Alsace,SPREAD,8.5,favorite,-120,saint-quentin-alliance-sport-alsace-202211041500,pro-b,basketball,67,75
+43,2022-11-04 16:46:21.381379,Alliance Sport Alsace,Saint-Quentin,SPREAD,8.5,favorite,-120,saint-quentin-alliance-sport-alsace-202211041500,pro-b,basketball,75,67
+44,2022-11-04 16:46:21.381379,Saint-Quentin,Alliance Sport Alsace,WIN,,,+775,saint-quentin-alliance-sport-alsace-202211041500,pro-b,basketball,67,75
+45,2022-11-04 16:46:21.381379,Alliance Sport Alsace,Saint-Quentin,WIN,,,-2000,saint-quentin-alliance-sport-alsace-202211041500,pro-b,basketball,75,67
+46,2022-11-04 16:46:21.381379,Saint-Quentin,Alliance Sport Alsace,TOTAL,8.5,favorite,+110,saint-quentin-alliance-sport-alsace-202211041500,pro-b,basketball,67,75
+47,2022-11-04 16:46:21.381379,Alliance Sport Alsace,Saint-Quentin,TOTAL,8.5,favorite,-155,saint-quentin-alliance-sport-alsace-202211041500,pro-b,basketball,75,67
+48,2022-11-04 16:46:21.500263,Boulazac,Antibes Sharks,SPREAD,4.5,underdog,-135,boulazac-antibes-sharks-202211041530,pro-b,basketball,56,49
+49,2022-11-04 16:46:21.500263,Antibes Sharks,Boulazac,SPREAD,4.5,underdog,-105,boulazac-antibes-sharks-202211041530,pro-b,basketball,49,56
+50,2022-11-04 16:46:21.500263,Boulazac,Antibes Sharks,WIN,,,-330,boulazac-antibes-sharks-202211041530,pro-b,basketball,56,49
+51,2022-11-04 16:46:21.500263,Antibes Sharks,Boulazac,WIN,,,+240,boulazac-antibes-sharks-202211041530,pro-b,basketball,49,56
+52,2022-11-04 16:46:21.500263,Boulazac,Antibes Sharks,TOTAL,4.5,underdog,+110,boulazac-antibes-sharks-202211041530,pro-b,basketball,56,49
+53,2022-11-04 16:46:21.500263,Antibes Sharks,Boulazac,TOTAL,4.5,underdog,-155,boulazac-antibes-sharks-202211041530,pro-b,basketball,49,56
+54,2022-11-04 16:46:21.621531,Saint-Chamond,Vichy-Clermont Métropole,SPREAD,1.5,underdog,-110,saint-chamond-vichy-clermont-metropole-202211041530,pro-b,basketball,61,61
+55,2022-11-04 16:46:21.621531,Vichy-Clermont Métropole,Saint-Chamond,SPREAD,1.5,underdog,-130,saint-chamond-vichy-clermont-metropole-202211041530,pro-b,basketball,61,61
+56,2022-11-04 16:46:21.621531,Saint-Chamond,Vichy-Clermont Métropole,WIN,,,-130,saint-chamond-vichy-clermont-metropole-202211041530,pro-b,basketball,61,61
+57,2022-11-04 16:46:21.621531,Vichy-Clermont Métropole,Saint-Chamond,WIN,,,-110,saint-chamond-vichy-clermont-metropole-202211041530,pro-b,basketball,61,61
+58,2022-11-04 16:46:21.621531,Saint-Chamond,Vichy-Clermont Métropole,TOTAL,1.5,underdog,-120,saint-chamond-vichy-clermont-metropole-202211041530,pro-b,basketball,61,61
+59,2022-11-04 16:46:21.621531,Vichy-Clermont Métropole,Saint-Chamond,TOTAL,1.5,underdog,-120,saint-chamond-vichy-clermont-metropole-202211041530,pro-b,basketball,61,61
+60,2022-11-04 16:46:21.739881,Cibona,ZKK Split,SPREAD,1.5,favorite,-150,cibona-zkk-split-202211041500,aba-league,basketball,67,67
+61,2022-11-04 16:46:21.739881,ZKK Split,Cibona,SPREAD,1.5,favorite,+105,cibona-zkk-split-202211041500,aba-league,basketball,67,67
+62,2022-11-04 16:46:21.739881,Cibona,ZKK Split,WIN,,,-155,cibona-zkk-split-202211041500,aba-league,basketball,67,67
+63,2022-11-04 16:46:21.739881,ZKK Split,Cibona,WIN,,,+110,cibona-zkk-split-202211041500,aba-league,basketball,67,67
+64,2022-11-04 16:46:21.739881,Cibona,ZKK Split,TOTAL,1.5,favorite,+110,cibona-zkk-split-202211041500,aba-league,basketball,67,67
+65,2022-11-04 16:46:21.739881,ZKK Split,Cibona,TOTAL,1.5,favorite,-155,cibona-zkk-split-202211041500,aba-league,basketball,67,67
+66,2022-11-04 16:46:21.854339,Kangoeres Mechelen,Limburg United,SPREAD,1.5,favorite,-120,kangoeres-mechelen-limburg-united-202211041530,bnxt-league,basketball,57,58
+67,2022-11-04 16:46:21.854339,Limburg United,Kangoeres Mechelen,SPREAD,1.5,favorite,-120,kangoeres-mechelen-limburg-united-202211041530,bnxt-league,basketball,58,57
+68,2022-11-04 16:46:21.854339,Kangoeres Mechelen,Limburg United,WIN,,,+110,kangoeres-mechelen-limburg-united-202211041530,bnxt-league,basketball,57,58
+69,2022-11-04 16:46:21.854339,Limburg United,Kangoeres Mechelen,WIN,,,-155,kangoeres-mechelen-limburg-united-202211041530,bnxt-league,basketball,58,57
+70,2022-11-04 16:46:21.854339,Kangoeres Mechelen,Limburg United,TOTAL,1.5,favorite,+110,kangoeres-mechelen-limburg-united-202211041530,bnxt-league,basketball,57,58
+71,2022-11-04 16:46:21.854339,Limburg United,Kangoeres Mechelen,TOTAL,1.5,favorite,-155,kangoeres-mechelen-limburg-united-202211041530,bnxt-league,basketball,58,57
+72,2022-11-04 16:46:21.982151,Okapi Aalst,Spirou Charleroi,SPREAD,14.5,underdog,-110,okapi-aalst-spirou-charleroi-202211041530,bnxt-league,basketball,77,56
+73,2022-11-04 16:46:21.982151,Spirou Charleroi,Okapi Aalst,SPREAD,14.5,underdog,-130,okapi-aalst-spirou-charleroi-202211041530,bnxt-league,basketball,56,77
+74,2022-11-04 16:46:21.982151,Okapi Aalst,Spirou Charleroi,WIN,,,-6600,okapi-aalst-spirou-charleroi-202211041530,bnxt-league,basketball,77,56
+75,2022-11-04 16:46:21.982151,Spirou Charleroi,Okapi Aalst,WIN,,,+1000,okapi-aalst-spirou-charleroi-202211041530,bnxt-league,basketball,56,77
+76,2022-11-04 16:46:21.982151,Okapi Aalst,Spirou Charleroi,TOTAL,14.5,underdog,-115,okapi-aalst-spirou-charleroi-202211041530,bnxt-league,basketball,77,56
+77,2022-11-04 16:46:21.982151,Spirou Charleroi,Okapi Aalst,TOTAL,14.5,underdog,-125,okapi-aalst-spirou-charleroi-202211041530,bnxt-league,basketball,56,77
+78,2022-11-04 16:46:22.101836,RSW Liège,BC Oostende,SPREAD,39.5,favorite,+105,rsw-liege-bc-telenet-oostende-202211041530,bnxt-league,basketball,43,75
+79,2022-11-04 16:46:22.101836,BC Oostende,RSW Liège,SPREAD,39.5,favorite,-150,rsw-liege-bc-telenet-oostende-202211041530,bnxt-league,basketball,75,43
+80,2022-11-04 16:46:22.101836,RSW Liège,BC Oostende,WIN,,,+1500,rsw-liege-bc-telenet-oostende-202211041530,bnxt-league,basketball,43,75
+81,2022-11-04 16:46:22.101836,BC Oostende,RSW Liège,WIN,,,-10000,rsw-liege-bc-telenet-oostende-202211041530,bnxt-league,basketball,75,43
+82,2022-11-04 16:46:22.101836,RSW Liège,BC Oostende,TOTAL,39.5,favorite,-115,rsw-liege-bc-telenet-oostende-202211041530,bnxt-league,basketball,43,75
+83,2022-11-04 16:46:22.101836,BC Oostende,RSW Liège,TOTAL,39.5,favorite,-125,rsw-liege-bc-telenet-oostende-202211041530,bnxt-league,basketball,75,43
+84,2022-11-04 16:46:22.213216,Zadar,Dinamo Zagreb,SPREAD,9.5,underdog,+105,zadar-dinamo-zagreb-202211041500,a1-liga,basketball,94,82
+85,2022-11-04 16:46:22.213216,Dinamo Zagreb,Zadar,SPREAD,9.5,underdog,-150,zadar-dinamo-zagreb-202211041500,a1-liga,basketball,82,94
+86,2022-11-04 16:46:22.213216,Zadar,Dinamo Zagreb,WIN,,,-6600,zadar-dinamo-zagreb-202211041500,a1-liga,basketball,94,82
+87,2022-11-04 16:46:22.213216,Dinamo Zagreb,Zadar,WIN,,,+1400,zadar-dinamo-zagreb-202211041500,a1-liga,basketball,82,94
+88,2022-11-04 16:46:22.213216,Zadar,Dinamo Zagreb,TOTAL,9.5,underdog,-130,zadar-dinamo-zagreb-202211041500,a1-liga,basketball,94,82
+89,2022-11-04 16:46:22.213216,Dinamo Zagreb,Zadar,TOTAL,9.5,underdog,-110,zadar-dinamo-zagreb-202211041500,a1-liga,basketball,82,94
+90,2022-11-04 16:46:22.315622,Caledonia Gladiators,Bristol Flyers,SPREAD,12.5,favorite,-115,caledonia-gladiators-bristol-flyers-202211041530,british-basketball-league,basketball,52,67
+91,2022-11-04 16:46:22.315622,Bristol Flyers,Caledonia Gladiators,SPREAD,12.5,favorite,-125,caledonia-gladiators-bristol-flyers-202211041530,british-basketball-league,basketball,67,52
+92,2022-11-04 16:46:22.315622,Caledonia Gladiators,Bristol Flyers,WIN,,,+900,caledonia-gladiators-bristol-flyers-202211041530,british-basketball-league,basketball,52,67
+93,2022-11-04 16:46:22.315622,Bristol Flyers,Caledonia Gladiators,WIN,,,-3300,caledonia-gladiators-bristol-flyers-202211041530,british-basketball-league,basketball,67,52
+94,2022-11-04 16:46:22.315622,Caledonia Gladiators,Bristol Flyers,TOTAL,12.5,favorite,-120,caledonia-gladiators-bristol-flyers-202211041530,british-basketball-league,basketball,52,67
+95,2022-11-04 16:46:22.315622,Bristol Flyers,Caledonia Gladiators,TOTAL,12.5,favorite,-120,caledonia-gladiators-bristol-flyers-202211041530,british-basketball-league,basketball,67,52
+96,2022-11-04 16:46:22.440923,Cheshire Phoenix,Leicester Riders,SPREAD,10.5,favorite,-150,cheshire-phoenix-leicester-riders-202211041545,british-basketball-league,basketball,44,49
+97,2022-11-04 16:46:22.440923,Leicester Riders,Cheshire Phoenix,SPREAD,10.5,favorite,+105,cheshire-phoenix-leicester-riders-202211041545,british-basketball-league,basketball,49,44
+98,2022-11-04 16:46:22.440923,Cheshire Phoenix,Leicester Riders,WIN,,,+450,cheshire-phoenix-leicester-riders-202211041545,british-basketball-league,basketball,44,49
+99,2022-11-04 16:46:22.440923,Leicester Riders,Cheshire Phoenix,WIN,,,-800,cheshire-phoenix-leicester-riders-202211041545,british-basketball-league,basketball,49,44
+100,2022-11-04 16:46:22.440923,Cheshire Phoenix,Leicester Riders,TOTAL,10.5,favorite,-115,cheshire-phoenix-leicester-riders-202211041545,british-basketball-league,basketball,44,49
+101,2022-11-04 16:46:22.440923,Leicester Riders,Cheshire Phoenix,TOTAL,10.5,favorite,-125,cheshire-phoenix-leicester-riders-202211041545,british-basketball-league,basketball,49,44
+102,2022-11-04 16:46:22.534663,Surrey Scorchers,Newcastle Eagles,SPREAD,1.5,favorite,-140,surrey-scorchers-newcastle-eagles-202211041545,british-basketball-league,basketball,38,31
+103,2022-11-04 16:46:22.534663,Newcastle Eagles,Surrey Scorchers,SPREAD,1.5,favorite,EVEN,surrey-scorchers-newcastle-eagles-202211041545,british-basketball-league,basketball,31,38
+104,2022-11-04 16:46:22.534663,Surrey Scorchers,Newcastle Eagles,WIN,,,-120,surrey-scorchers-newcastle-eagles-202211041545,british-basketball-league,basketball,38,31
+105,2022-11-04 16:46:22.534663,Newcastle Eagles,Surrey Scorchers,WIN,,,-120,surrey-scorchers-newcastle-eagles-202211041545,british-basketball-league,basketball,31,38
+106,2022-11-04 16:46:22.534663,Surrey Scorchers,Newcastle Eagles,TOTAL,1.5,favorite,EVEN,surrey-scorchers-newcastle-eagles-202211041545,british-basketball-league,basketball,38,31
+107,2022-11-04 16:46:22.534663,Newcastle Eagles,Surrey Scorchers,TOTAL,1.5,favorite,-140,surrey-scorchers-newcastle-eagles-202211041545,british-basketball-league,basketball,31,38
+108,2022-11-04 16:46:22.647494,Gladiators Trier,Paderborn Baskets,SPREAD,7.5,underdog,-125,gladiators-trier-paderborn-baskets-202211041500,pro-a,basketball,82,74
+109,2022-11-04 16:46:22.647494,Paderborn Baskets,Gladiators Trier,SPREAD,7.5,underdog,-115,gladiators-trier-paderborn-baskets-202211041500,pro-a,basketball,74,82
+110,2022-11-04 16:46:22.647494,Gladiators Trier,Paderborn Baskets,WIN,,,-6600,gladiators-trier-paderborn-baskets-202211041500,pro-a,basketball,82,74
+111,2022-11-04 16:46:22.647494,Paderborn Baskets,Gladiators Trier,WIN,,,+1500,gladiators-trier-paderborn-baskets-202211041500,pro-a,basketball,74,82
+112,2022-11-04 16:46:22.647494,Gladiators Trier,Paderborn Baskets,TOTAL,7.5,underdog,+110,gladiators-trier-paderborn-baskets-202211041500,pro-a,basketball,82,74
+113,2022-11-04 16:46:22.647494,Paderborn Baskets,Gladiators Trier,TOTAL,7.5,underdog,-155,gladiators-trier-paderborn-baskets-202211041500,pro-a,basketball,74,82
+114,2022-11-04 16:46:22.745242,Grindavik,Njardvik,SPREAD,3.5,favorite,-125,grindavik-njardvik-202211041615,premier-league,basketball,34,23
+115,2022-11-04 16:46:22.745242,Njardvik,Grindavik,SPREAD,3.5,favorite,-115,grindavik-njardvik-202211041615,premier-league,basketball,23,34
+116,2022-11-04 16:46:22.745242,Grindavik,Njardvik,WIN,,,+135,grindavik-njardvik-202211041615,premier-league,basketball,34,23
+117,2022-11-04 16:46:22.745242,Njardvik,Grindavik,WIN,,,-190,grindavik-njardvik-202211041615,premier-league,basketball,23,34
+118,2022-11-04 16:46:22.745242,Grindavik,Njardvik,TOTAL,3.5,favorite,-110,grindavik-njardvik-202211041615,premier-league,basketball,34,23
+119,2022-11-04 16:46:22.745242,Njardvik,Grindavik,TOTAL,3.5,favorite,-130,grindavik-njardvik-202211041615,premier-league,basketball,23,34
+120,2022-11-04 16:46:22.862112,Iraurgi SB,HLA Alicante,SPREAD,6.5,favorite,-115,iraurgi-sb-hla-alicante-202211041530,leb-oro,basketball,48,50
+121,2022-11-04 16:46:22.862112,HLA Alicante,Iraurgi SB,SPREAD,6.5,favorite,-125,iraurgi-sb-hla-alicante-202211041530,leb-oro,basketball,50,48
+122,2022-11-04 16:46:22.862112,Iraurgi SB,HLA Alicante,WIN,,,+325,iraurgi-sb-hla-alicante-202211041530,leb-oro,basketball,48,50
+123,2022-11-04 16:46:22.862112,HLA Alicante,Iraurgi SB,WIN,,,-525,iraurgi-sb-hla-alicante-202211041530,leb-oro,basketball,50,48
+124,2022-11-04 16:46:22.862112,Iraurgi SB,HLA Alicante,TOTAL,6.5,favorite,-130,iraurgi-sb-hla-alicante-202211041530,leb-oro,basketball,48,50
+125,2022-11-04 16:46:22.862112,HLA Alicante,Iraurgi SB,TOTAL,6.5,favorite,-110,iraurgi-sb-hla-alicante-202211041530,leb-oro,basketball,50,48
+126,2022-11-04 16:46:22.960342,Caceres Basket,Amics Castelló,SPREAD,10.5,underdog,-125,caceres-basket-amics-castello-202211041600,leb-oro,basketball,51,33
+127,2022-11-04 16:46:22.960342,Amics Castelló,Caceres Basket,SPREAD,10.5,underdog,-115,caceres-basket-amics-castello-202211041600,leb-oro,basketball,33,51
+128,2022-11-04 16:46:22.960342,Caceres Basket,Amics Castelló,WIN,,,-900,caceres-basket-amics-castello-202211041600,leb-oro,basketball,51,33
+129,2022-11-04 16:46:22.960342,Amics Castelló,Caceres Basket,WIN,,,+500,caceres-basket-amics-castello-202211041600,leb-oro,basketball,33,51
+130,2022-11-04 16:46:22.960342,Caceres Basket,Amics Castelló,TOTAL,10.5,underdog,-115,caceres-basket-amics-castello-202211041600,leb-oro,basketball,51,33
+131,2022-11-04 16:46:22.960342,Amics Castelló,Caceres Basket,TOTAL,10.5,underdog,-125,caceres-basket-amics-castello-202211041600,leb-oro,basketball,33,51
+132,2022-11-04 16:46:23.064726,PHI 76ers (EVERGREEN),BKN Nets (UNDERRATED),SPREAD,4.5,favorite,-105,phi-76ers-evergreen-bkn-nets-underrated-202211041620,ebasketball-h2h-gg-league-4x5mins,basketball,68,75
+133,2022-11-04 16:46:23.064726,BKN Nets (UNDERRATED),PHI 76ers (EVERGREEN),SPREAD,4.5,favorite,-135,phi-76ers-evergreen-bkn-nets-underrated-202211041620,ebasketball-h2h-gg-league-4x5mins,basketball,75,68
+134,2022-11-04 16:46:23.064726,PHI 76ers (EVERGREEN),BKN Nets (UNDERRATED),WIN,,,+475,phi-76ers-evergreen-bkn-nets-underrated-202211041620,ebasketball-h2h-gg-league-4x5mins,basketball,68,75
+135,2022-11-04 16:46:23.064726,BKN Nets (UNDERRATED),PHI 76ers (EVERGREEN),WIN,,,-900,phi-76ers-evergreen-bkn-nets-underrated-202211041620,ebasketball-h2h-gg-league-4x5mins,basketball,75,68
+136,2022-11-04 16:46:23.064726,PHI 76ers (EVERGREEN),BKN Nets (UNDERRATED),TOTAL,4.5,favorite,-130,phi-76ers-evergreen-bkn-nets-underrated-202211041620,ebasketball-h2h-gg-league-4x5mins,basketball,68,75
+137,2022-11-04 16:46:23.064726,BKN Nets (UNDERRATED),PHI 76ers (EVERGREEN),TOTAL,4.5,favorite,-110,phi-76ers-evergreen-bkn-nets-underrated-202211041620,ebasketball-h2h-gg-league-4x5mins,basketball,75,68
+138,2022-11-04 16:46:23.168720,GS Warriors (ICEMAN),PHI 76ers (TAAPZ),SPREAD,4.5,favorite,-120,gs-warriors-iceman-phi-76ers-taapz-202211041632,ebasketball-h2h-gg-league-4x5mins,basketball,23,28
+139,2022-11-04 16:46:23.168720,PHI 76ers (TAAPZ),GS Warriors (ICEMAN),SPREAD,4.5,favorite,-120,gs-warriors-iceman-phi-76ers-taapz-202211041632,ebasketball-h2h-gg-league-4x5mins,basketball,28,23
+140,2022-11-04 16:46:23.168720,GS Warriors (ICEMAN),PHI 76ers (TAAPZ),WIN,,,+210,gs-warriors-iceman-phi-76ers-taapz-202211041632,ebasketball-h2h-gg-league-4x5mins,basketball,23,28
+141,2022-11-04 16:46:23.168720,PHI 76ers (TAAPZ),GS Warriors (ICEMAN),WIN,,,-315,gs-warriors-iceman-phi-76ers-taapz-202211041632,ebasketball-h2h-gg-league-4x5mins,basketball,28,23
+142,2022-11-04 16:46:23.168720,GS Warriors (ICEMAN),PHI 76ers (TAAPZ),TOTAL,4.5,favorite,-140,gs-warriors-iceman-phi-76ers-taapz-202211041632,ebasketball-h2h-gg-league-4x5mins,basketball,23,28
+143,2022-11-04 16:46:23.168720,PHI 76ers (TAAPZ),GS Warriors (ICEMAN),TOTAL,4.5,favorite,EVEN,gs-warriors-iceman-phi-76ers-taapz-202211041632,ebasketball-h2h-gg-league-4x5mins,basketball,28,23
+144,2022-11-04 16:46:23.273581,MIL Bucks (HUNCHO),PHX Suns (BULLDOZER),SPREAD,9.5,underdog,-130,mil-bucks-huncho-phx-suns-bulldozer-202211041642,ebasketball-h2h-gg-league-4x5mins,basketball,4,4
+145,2022-11-04 16:46:23.273581,PHX Suns (BULLDOZER),MIL Bucks (HUNCHO),SPREAD,9.5,underdog,-110,mil-bucks-huncho-phx-suns-bulldozer-202211041642,ebasketball-h2h-gg-league-4x5mins,basketball,4,4
+146,2022-11-04 16:46:23.273581,MIL Bucks (HUNCHO),PHX Suns (BULLDOZER),WIN,,,-650,mil-bucks-huncho-phx-suns-bulldozer-202211041642,ebasketball-h2h-gg-league-4x5mins,basketball,4,4
+147,2022-11-04 16:46:23.273581,PHX Suns (BULLDOZER),MIL Bucks (HUNCHO),WIN,,,+375,mil-bucks-huncho-phx-suns-bulldozer-202211041642,ebasketball-h2h-gg-league-4x5mins,basketball,4,4
+148,2022-11-04 16:46:23.273581,MIL Bucks (HUNCHO),PHX Suns (BULLDOZER),TOTAL,9.5,underdog,-110,mil-bucks-huncho-phx-suns-bulldozer-202211041642,ebasketball-h2h-gg-league-4x5mins,basketball,4,4
+149,2022-11-04 16:46:23.273581,PHX Suns (BULLDOZER),MIL Bucks (HUNCHO),TOTAL,9.5,underdog,-130,mil-bucks-huncho-phx-suns-bulldozer-202211041642,ebasketball-h2h-gg-league-4x5mins,basketball,4,4
+150,2022-11-04 16:46:23.380033,LA Clippers (Adza),ORL Magic (Blanc),SPREAD,4.5,favorite,-130,la-clippers-adza-orl-magic-blanc-202211041635,ebasketball-battle-4x5mins,basketball,17,18
+151,2022-11-04 16:46:23.380033,ORL Magic (Blanc),LA Clippers (Adza),SPREAD,4.5,favorite,-110,la-clippers-adza-orl-magic-blanc-202211041635,ebasketball-battle-4x5mins,basketball,18,17
+152,2022-11-04 16:46:23.380033,LA Clippers (Adza),ORL Magic (Blanc),WIN,,,+180,la-clippers-adza-orl-magic-blanc-202211041635,ebasketball-battle-4x5mins,basketball,17,18
+153,2022-11-04 16:46:23.380033,ORL Magic (Blanc),LA Clippers (Adza),WIN,,,-265,la-clippers-adza-orl-magic-blanc-202211041635,ebasketball-battle-4x5mins,basketball,18,17
+154,2022-11-04 16:46:23.380033,LA Clippers (Adza),ORL Magic (Blanc),TOTAL,4.5,favorite,-115,la-clippers-adza-orl-magic-blanc-202211041635,ebasketball-battle-4x5mins,basketball,17,18
+155,2022-11-04 16:46:23.380033,ORL Magic (Blanc),LA Clippers (Adza),TOTAL,4.5,favorite,-125,la-clippers-adza-orl-magic-blanc-202211041635,ebasketball-battle-4x5mins,basketball,18,17
+156,2022-11-04 16:46:23.486359,UTA Jazz (Djapacmeister),CLE Cavaliers (Lic),SPREAD,11.5,favorite,-125,uta-jazz-djapacmeister-cle-cavaliers-lic-202211041635,ebasketball-battle-4x5mins,basketball,23,31
+157,2022-11-04 16:46:23.486359,CLE Cavaliers (Lic),UTA Jazz (Djapacmeister),SPREAD,11.5,favorite,-115,uta-jazz-djapacmeister-cle-cavaliers-lic-202211041635,ebasketball-battle-4x5mins,basketball,31,23
+158,2022-11-04 16:46:23.486359,UTA Jazz (Djapacmeister),CLE Cavaliers (Lic),WIN,,,+500,uta-jazz-djapacmeister-cle-cavaliers-lic-202211041635,ebasketball-battle-4x5mins,basketball,23,31
+159,2022-11-04 16:46:23.486359,CLE Cavaliers (Lic),UTA Jazz (Djapacmeister),WIN,,,-1000,uta-jazz-djapacmeister-cle-cavaliers-lic-202211041635,ebasketball-battle-4x5mins,basketball,31,23
+160,2022-11-04 16:46:23.486359,UTA Jazz (Djapacmeister),CLE Cavaliers (Lic),TOTAL,11.5,favorite,-130,uta-jazz-djapacmeister-cle-cavaliers-lic-202211041635,ebasketball-battle-4x5mins,basketball,23,31
+161,2022-11-04 16:46:23.486359,CLE Cavaliers (Lic),UTA Jazz (Djapacmeister),TOTAL,11.5,favorite,-110,uta-jazz-djapacmeister-cle-cavaliers-lic-202211041635,ebasketball-battle-4x5mins,basketball,31,23
+162,2022-11-04 16:46:23.575059,Brooklyn Nets,Washington Wizards,SPREAD,3.0,favorite,-110,brooklyn-nets-washington-wizards-202211041900,nba,basketball,,
+163,2022-11-04 16:46:23.575059,Washington Wizards,Brooklyn Nets,SPREAD,3.0,favorite,-110,brooklyn-nets-washington-wizards-202211041900,nba,basketball,,
+164,2022-11-04 16:46:23.575059,Brooklyn Nets,Washington Wizards,WIN,,,+135,brooklyn-nets-washington-wizards-202211041900,nba,basketball,,
+165,2022-11-04 16:46:23.575059,Washington Wizards,Brooklyn Nets,WIN,,,-160,brooklyn-nets-washington-wizards-202211041900,nba,basketball,,
+166,2022-11-04 16:46:23.575059,Brooklyn Nets,Washington Wizards,TOTAL,3.0,favorite,-110,brooklyn-nets-washington-wizards-202211041900,nba,basketball,,
+167,2022-11-04 16:46:23.575059,Washington Wizards,Brooklyn Nets,TOTAL,3.0,favorite,-110,brooklyn-nets-washington-wizards-202211041900,nba,basketball,,
+168,2022-11-04 16:46:23.670648,Cleveland Cavaliers,Detroit Pistons,SPREAD,5.5,underdog,-110,cleveland-cavaliers-detroit-pistons-202211041900,nba,basketball,,
+169,2022-11-04 16:46:23.670648,Detroit Pistons,Cleveland Cavaliers,SPREAD,5.5,underdog,-110,cleveland-cavaliers-detroit-pistons-202211041900,nba,basketball,,
+170,2022-11-04 16:46:23.670648,Cleveland Cavaliers,Detroit Pistons,WIN,,,-225,cleveland-cavaliers-detroit-pistons-202211041900,nba,basketball,,
+171,2022-11-04 16:46:23.670648,Detroit Pistons,Cleveland Cavaliers,WIN,,,+185,cleveland-cavaliers-detroit-pistons-202211041900,nba,basketball,,
+172,2022-11-04 16:46:23.670648,Cleveland Cavaliers,Detroit Pistons,TOTAL,5.5,underdog,-110,cleveland-cavaliers-detroit-pistons-202211041900,nba,basketball,,
+173,2022-11-04 16:46:23.670648,Detroit Pistons,Cleveland Cavaliers,TOTAL,5.5,underdog,-110,cleveland-cavaliers-detroit-pistons-202211041900,nba,basketball,,
+174,2022-11-04 16:46:23.759415,Miami Heat,Indiana Pacers,SPREAD,3.5,underdog,-110,miami-heat-indiana-pacers-202211041900,nba,basketball,,
+175,2022-11-04 16:46:23.759415,Indiana Pacers,Miami Heat,SPREAD,3.5,underdog,-110,miami-heat-indiana-pacers-202211041900,nba,basketball,,
+176,2022-11-04 16:46:23.759415,Miami Heat,Indiana Pacers,WIN,,,-165,miami-heat-indiana-pacers-202211041900,nba,basketball,,
+177,2022-11-04 16:46:23.759415,Indiana Pacers,Miami Heat,WIN,,,+140,miami-heat-indiana-pacers-202211041900,nba,basketball,,
+178,2022-11-04 16:46:23.759415,Miami Heat,Indiana Pacers,TOTAL,3.5,underdog,-110,miami-heat-indiana-pacers-202211041900,nba,basketball,,
+179,2022-11-04 16:46:23.759415,Indiana Pacers,Miami Heat,TOTAL,3.5,underdog,-110,miami-heat-indiana-pacers-202211041900,nba,basketball,,
+180,2022-11-04 16:46:23.857235,New York Knicks,Philadelphia 76ers,SPREAD,3.5,favorite,-110,new-york-knicks-philadelphia-76ers-202211041900,nba,basketball,,
+181,2022-11-04 16:46:23.857235,Philadelphia 76ers,New York Knicks,SPREAD,3.5,favorite,-110,new-york-knicks-philadelphia-76ers-202211041900,nba,basketball,,
+182,2022-11-04 16:46:23.857235,New York Knicks,Philadelphia 76ers,WIN,,,+135,new-york-knicks-philadelphia-76ers-202211041900,nba,basketball,,
+183,2022-11-04 16:46:23.857235,Philadelphia 76ers,New York Knicks,WIN,,,-160,new-york-knicks-philadelphia-76ers-202211041900,nba,basketball,,
+184,2022-11-04 16:46:23.857235,New York Knicks,Philadelphia 76ers,TOTAL,3.5,favorite,-110,new-york-knicks-philadelphia-76ers-202211041900,nba,basketball,,
+185,2022-11-04 16:46:23.857235,Philadelphia 76ers,New York Knicks,TOTAL,3.5,favorite,-110,new-york-knicks-philadelphia-76ers-202211041900,nba,basketball,,
+186,2022-11-04 16:46:23.950750,Chicago Bulls,Boston Celtics,SPREAD,7.0,favorite,-105,chicago-bulls-boston-celtics-202211041930,nba,basketball,,
+187,2022-11-04 16:46:23.950750,Boston Celtics,Chicago Bulls,SPREAD,7.0,favorite,-115,chicago-bulls-boston-celtics-202211041930,nba,basketball,,
+188,2022-11-04 16:46:23.950750,Chicago Bulls,Boston Celtics,WIN,,,+235,chicago-bulls-boston-celtics-202211041930,nba,basketball,,
+189,2022-11-04 16:46:23.950750,Boston Celtics,Chicago Bulls,WIN,,,-285,chicago-bulls-boston-celtics-202211041930,nba,basketball,,
+190,2022-11-04 16:46:23.950750,Chicago Bulls,Boston Celtics,TOTAL,7.0,favorite,-105,chicago-bulls-boston-celtics-202211041930,nba,basketball,,
+191,2022-11-04 16:46:23.950750,Boston Celtics,Chicago Bulls,TOTAL,7.0,favorite,-115,chicago-bulls-boston-celtics-202211041930,nba,basketball,,
+192,2022-11-04 16:46:24.038010,Charlotte Hornets,Memphis Grizzlies,SPREAD,11.0,favorite,-110,charlotte-hornets-memphis-grizzlies-202211042010,nba,basketball,,
+193,2022-11-04 16:46:24.038010,Memphis Grizzlies,Charlotte Hornets,SPREAD,11.0,favorite,-110,charlotte-hornets-memphis-grizzlies-202211042010,nba,basketball,,
+194,2022-11-04 16:46:24.038010,Charlotte Hornets,Memphis Grizzlies,WIN,,,+450,charlotte-hornets-memphis-grizzlies-202211042010,nba,basketball,,
+195,2022-11-04 16:46:24.038010,Memphis Grizzlies,Charlotte Hornets,WIN,,,-650,charlotte-hornets-memphis-grizzlies-202211042010,nba,basketball,,
+196,2022-11-04 16:46:24.038010,Charlotte Hornets,Memphis Grizzlies,TOTAL,11.0,favorite,-110,charlotte-hornets-memphis-grizzlies-202211042010,nba,basketball,,
+197,2022-11-04 16:46:24.038010,Memphis Grizzlies,Charlotte Hornets,TOTAL,11.0,favorite,-110,charlotte-hornets-memphis-grizzlies-202211042010,nba,basketball,,
+198,2022-11-04 16:46:24.139170,Golden State Warriors,New Orleans Pelicans,SPREAD,10.5,favorite,-110,golden-state-warriors-new-orleans-pelicans-202211042010,nba,basketball,,
+199,2022-11-04 16:46:24.139170,New Orleans Pelicans,Golden State Warriors,SPREAD,10.5,favorite,-110,golden-state-warriors-new-orleans-pelicans-202211042010,nba,basketball,,
+200,2022-11-04 16:46:24.139170,Golden State Warriors,New Orleans Pelicans,WIN,,,+370,golden-state-warriors-new-orleans-pelicans-202211042010,nba,basketball,,
+201,2022-11-04 16:46:24.139170,New Orleans Pelicans,Golden State Warriors,WIN,,,-510,golden-state-warriors-new-orleans-pelicans-202211042010,nba,basketball,,
+202,2022-11-04 16:46:24.139170,Golden State Warriors,New Orleans Pelicans,TOTAL,10.5,favorite,-110,golden-state-warriors-new-orleans-pelicans-202211042010,nba,basketball,,
+203,2022-11-04 16:46:24.139170,New Orleans Pelicans,Golden State Warriors,TOTAL,10.5,favorite,-110,golden-state-warriors-new-orleans-pelicans-202211042010,nba,basketball,,
+204,2022-11-04 16:46:24.240487,L.A. Clippers,San Antonio Spurs,SPREAD,3.5,underdog,-110,l-a-clippers-san-antonio-spurs-202211042010,nba,basketball,,
+205,2022-11-04 16:46:24.240487,San Antonio Spurs,L.A. Clippers,SPREAD,3.5,underdog,-110,l-a-clippers-san-antonio-spurs-202211042010,nba,basketball,,
+206,2022-11-04 16:46:24.240487,L.A. Clippers,San Antonio Spurs,WIN,,,-165,l-a-clippers-san-antonio-spurs-202211042010,nba,basketball,,
+207,2022-11-04 16:46:24.240487,San Antonio Spurs,L.A. Clippers,WIN,,,+140,l-a-clippers-san-antonio-spurs-202211042010,nba,basketball,,
+208,2022-11-04 16:46:24.240487,L.A. Clippers,San Antonio Spurs,TOTAL,3.5,underdog,-110,l-a-clippers-san-antonio-spurs-202211042010,nba,basketball,,
+209,2022-11-04 16:46:24.240487,San Antonio Spurs,L.A. Clippers,TOTAL,3.5,underdog,-110,l-a-clippers-san-antonio-spurs-202211042010,nba,basketball,,
+210,2022-11-04 16:46:24.324203,Toronto Raptors,Dallas Mavericks,SPREAD,3.5,favorite,-110,toronto-raptors-dallas-mavericks-202211042040,nba,basketball,,
+211,2022-11-04 16:46:24.324203,Dallas Mavericks,Toronto Raptors,SPREAD,3.5,favorite,-110,toronto-raptors-dallas-mavericks-202211042040,nba,basketball,,
+212,2022-11-04 16:46:24.324203,Toronto Raptors,Dallas Mavericks,WIN,,,+135,toronto-raptors-dallas-mavericks-202211042040,nba,basketball,,
+213,2022-11-04 16:46:24.324203,Dallas Mavericks,Toronto Raptors,WIN,,,-160,toronto-raptors-dallas-mavericks-202211042040,nba,basketball,,
+214,2022-11-04 16:46:24.324203,Toronto Raptors,Dallas Mavericks,TOTAL,3.5,favorite,-110,toronto-raptors-dallas-mavericks-202211042040,nba,basketball,,
+215,2022-11-04 16:46:24.324203,Dallas Mavericks,Toronto Raptors,TOTAL,3.5,favorite,-110,toronto-raptors-dallas-mavericks-202211042040,nba,basketball,,
+216,2022-11-04 16:46:24.463793,Milwaukee Bucks,Minnesota Timberwolves,SPREAD,3.5,underdog,-110,milwaukee-bucks-minnesota-timberwolves-202211042200,nba,basketball,,
+217,2022-11-04 16:46:24.463793,Minnesota Timberwolves,Milwaukee Bucks,SPREAD,3.5,underdog,-110,milwaukee-bucks-minnesota-timberwolves-202211042200,nba,basketball,,
+218,2022-11-04 16:46:24.463793,Milwaukee Bucks,Minnesota Timberwolves,WIN,,,-160,milwaukee-bucks-minnesota-timberwolves-202211042200,nba,basketball,,
+219,2022-11-04 16:46:24.463793,Minnesota Timberwolves,Milwaukee Bucks,WIN,,,+135,milwaukee-bucks-minnesota-timberwolves-202211042200,nba,basketball,,
+220,2022-11-04 16:46:24.463793,Milwaukee Bucks,Minnesota Timberwolves,TOTAL,3.5,underdog,-110,milwaukee-bucks-minnesota-timberwolves-202211042200,nba,basketball,,
+221,2022-11-04 16:46:24.463793,Minnesota Timberwolves,Milwaukee Bucks,TOTAL,3.5,underdog,-110,milwaukee-bucks-minnesota-timberwolves-202211042200,nba,basketball,,
+222,2022-11-04 16:46:24.570501,Portland Trail Blazers,Phoenix Suns,SPREAD,12.0,favorite,-110,portland-trail-blazers-phoenix-suns-202211042200,nba,basketball,,
+223,2022-11-04 16:46:24.570501,Phoenix Suns,Portland Trail Blazers,SPREAD,12.0,favorite,-110,portland-trail-blazers-phoenix-suns-202211042200,nba,basketball,,
+224,2022-11-04 16:46:24.570501,Portland Trail Blazers,Phoenix Suns,WIN,,,+450,portland-trail-blazers-phoenix-suns-202211042200,nba,basketball,,
+225,2022-11-04 16:46:24.570501,Phoenix Suns,Portland Trail Blazers,WIN,,,-650,portland-trail-blazers-phoenix-suns-202211042200,nba,basketball,,
+226,2022-11-04 16:46:24.570501,Portland Trail Blazers,Phoenix Suns,TOTAL,12.0,favorite,-110,portland-trail-blazers-phoenix-suns-202211042200,nba,basketball,,
+227,2022-11-04 16:46:24.570501,Phoenix Suns,Portland Trail Blazers,TOTAL,12.0,favorite,-110,portland-trail-blazers-phoenix-suns-202211042200,nba,basketball,,
+228,2022-11-04 16:46:24.679272,Utah Jazz,Los Angeles Lakers,SPREAD,3.5,favorite,-110,utah-jazz-los-angeles-lakers-202211042230,nba,basketball,,
+229,2022-11-04 16:46:24.679272,Los Angeles Lakers,Utah Jazz,SPREAD,3.5,favorite,-110,utah-jazz-los-angeles-lakers-202211042230,nba,basketball,,
+230,2022-11-04 16:46:24.679272,Utah Jazz,Los Angeles Lakers,WIN,,,+135,utah-jazz-los-angeles-lakers-202211042230,nba,basketball,,
+231,2022-11-04 16:46:24.679272,Los Angeles Lakers,Utah Jazz,WIN,,,-160,utah-jazz-los-angeles-lakers-202211042230,nba,basketball,,
+232,2022-11-04 16:46:24.679272,Utah Jazz,Los Angeles Lakers,TOTAL,3.5,favorite,-110,utah-jazz-los-angeles-lakers-202211042230,nba,basketball,,
+233,2022-11-04 16:46:24.679272,Los Angeles Lakers,Utah Jazz,TOTAL,3.5,favorite,-110,utah-jazz-los-angeles-lakers-202211042230,nba,basketball,,
+234,2022-11-04 16:46:24.787614,Paulistano,Unifacisa,SPREAD,5.0,favorite,-120,paulistano-unifacisa-202211041830,nbb,basketball,,
+235,2022-11-04 16:46:24.787614,Unifacisa,Paulistano,SPREAD,5.0,favorite,-110,paulistano-unifacisa-202211041830,nbb,basketball,,
+236,2022-11-04 16:46:24.787614,Paulistano,Unifacisa,WIN,,,+165,paulistano-unifacisa-202211041830,nbb,basketball,,
+237,2022-11-04 16:46:24.787614,Unifacisa,Paulistano,WIN,,,-210,paulistano-unifacisa-202211041830,nbb,basketball,,
+238,2022-11-04 16:46:24.787614,Paulistano,Unifacisa,TOTAL,5.0,favorite,-120,paulistano-unifacisa-202211041830,nbb,basketball,,
+239,2022-11-04 16:46:24.787614,Unifacisa,Paulistano,TOTAL,5.0,favorite,-110,paulistano-unifacisa-202211041830,nbb,basketball,,
+240,2022-11-04 16:46:24.881304,SC Corinthians Paulista,São Paulo,SPREAD,7.5,favorite,-120,sc-corinthians-paulista-sao-paulo-202211051400,nbb,basketball,,
+241,2022-11-04 16:46:24.881304,São Paulo,SC Corinthians Paulista,SPREAD,7.5,favorite,-110,sc-corinthians-paulista-sao-paulo-202211051400,nbb,basketball,,
+242,2022-11-04 16:46:24.881304,SC Corinthians Paulista,São Paulo,WIN,,,+225,sc-corinthians-paulista-sao-paulo-202211051400,nbb,basketball,,
+243,2022-11-04 16:46:24.881304,São Paulo,SC Corinthians Paulista,WIN,,,-310,sc-corinthians-paulista-sao-paulo-202211051400,nbb,basketball,,
+244,2022-11-04 16:46:24.881304,SC Corinthians Paulista,São Paulo,TOTAL,7.5,favorite,-115,sc-corinthians-paulista-sao-paulo-202211051400,nbb,basketball,,
+245,2022-11-04 16:46:24.881304,São Paulo,SC Corinthians Paulista,TOTAL,7.5,favorite,-115,sc-corinthians-paulista-sao-paulo-202211051400,nbb,basketball,,
+246,2022-11-04 16:46:24.979330,Brisbane Bullets,Tasmania JackJumpers,SPREAD,2.0,favorite,-110,brisbane-bullets-tasmania-jackjumpers-202211050230,nbl,basketball,,
+247,2022-11-04 16:46:24.979330,Tasmania JackJumpers,Brisbane Bullets,SPREAD,2.0,favorite,-120,brisbane-bullets-tasmania-jackjumpers-202211050230,nbl,basketball,,
+248,2022-11-04 16:46:24.979330,Brisbane Bullets,Tasmania JackJumpers,WIN,,,+110,brisbane-bullets-tasmania-jackjumpers-202211050230,nbl,basketball,,
+249,2022-11-04 16:46:24.979330,Tasmania JackJumpers,Brisbane Bullets,WIN,,,-145,brisbane-bullets-tasmania-jackjumpers-202211050230,nbl,basketball,,
+250,2022-11-04 16:46:24.979330,Brisbane Bullets,Tasmania JackJumpers,TOTAL,2.0,favorite,-115,brisbane-bullets-tasmania-jackjumpers-202211050230,nbl,basketball,,
+251,2022-11-04 16:46:24.979330,Tasmania JackJumpers,Brisbane Bullets,TOTAL,2.0,favorite,-115,brisbane-bullets-tasmania-jackjumpers-202211050230,nbl,basketball,,
+252,2022-11-04 16:46:25.075272,Perth Wildcats,Adelaide 36ers,SPREAD,2.0,favorite,-110,perth-wildcats-adelaide-36ers-202211050500,nbl,basketball,,
+253,2022-11-04 16:46:25.075272,Adelaide 36ers,Perth Wildcats,SPREAD,2.0,favorite,-120,perth-wildcats-adelaide-36ers-202211050500,nbl,basketball,,
+254,2022-11-04 16:46:25.075272,Perth Wildcats,Adelaide 36ers,WIN,,,+110,perth-wildcats-adelaide-36ers-202211050500,nbl,basketball,,
+255,2022-11-04 16:46:25.075272,Adelaide 36ers,Perth Wildcats,WIN,,,-145,perth-wildcats-adelaide-36ers-202211050500,nbl,basketball,,
+256,2022-11-04 16:46:25.075272,Perth Wildcats,Adelaide 36ers,TOTAL,2.0,favorite,-120,perth-wildcats-adelaide-36ers-202211050500,nbl,basketball,,
+257,2022-11-04 16:46:25.075272,Adelaide 36ers,Perth Wildcats,TOTAL,2.0,favorite,-110,perth-wildcats-adelaide-36ers-202211050500,nbl,basketball,,
+258,2022-11-04 16:46:25.169376,Sydney Kings,New Zealand Breakers,SPREAD,2.5,underdog,-110,sydney-kings-new-zealand-breakers-202211052300,nbl,basketball,,
+259,2022-11-04 16:46:25.169376,New Zealand Breakers,Sydney Kings,SPREAD,2.5,underdog,-120,sydney-kings-new-zealand-breakers-202211052300,nbl,basketball,,
+260,2022-11-04 16:46:25.169376,Sydney Kings,New Zealand Breakers,WIN,,,-136,sydney-kings-new-zealand-breakers-202211052300,nbl,basketball,,
+261,2022-11-04 16:46:25.169376,New Zealand Breakers,Sydney Kings,WIN,,,+109,sydney-kings-new-zealand-breakers-202211052300,nbl,basketball,,
+262,2022-11-04 16:46:25.169376,Sydney Kings,New Zealand Breakers,TOTAL,2.5,underdog,-115,sydney-kings-new-zealand-breakers-202211052300,nbl,basketball,,
+263,2022-11-04 16:46:25.169376,New Zealand Breakers,Sydney Kings,TOTAL,2.5,underdog,-115,sydney-kings-new-zealand-breakers-202211052300,nbl,basketball,,
+264,2022-11-04 16:46:25.266708,Chorale Roanne,SLUC Nancy,SPREAD,3.0,favorite,-105,chorale-roanne-sluc-nancy-202211051500,lnb-pro-a,basketball,,
+265,2022-11-04 16:46:25.266708,SLUC Nancy,Chorale Roanne,SPREAD,3.0,favorite,-115,chorale-roanne-sluc-nancy-202211051500,lnb-pro-a,basketball,,
+266,2022-11-04 16:46:25.266708,Chorale Roanne,SLUC Nancy,WIN,,,+130,chorale-roanne-sluc-nancy-202211051500,lnb-pro-a,basketball,,
+267,2022-11-04 16:46:25.266708,SLUC Nancy,Chorale Roanne,WIN,,,-155,chorale-roanne-sluc-nancy-202211051500,lnb-pro-a,basketball,,
+268,2022-11-04 16:46:25.266708,Chorale Roanne,SLUC Nancy,TOTAL,3.0,favorite,-115,chorale-roanne-sluc-nancy-202211051500,lnb-pro-a,basketball,,
+269,2022-11-04 16:46:25.266708,SLUC Nancy,Chorale Roanne,TOTAL,3.0,favorite,-105,chorale-roanne-sluc-nancy-202211051500,lnb-pro-a,basketball,,
+270,2022-11-04 16:46:25.363108,Élan Béarnais,Cholet,SPREAD,7.0,favorite,-105,elan-bearnais-pau-lacq-orthez-cholet-202211051500,lnb-pro-a,basketball,,
+271,2022-11-04 16:46:25.363108,Cholet,Élan Béarnais,SPREAD,7.0,favorite,-115,elan-bearnais-pau-lacq-orthez-cholet-202211051500,lnb-pro-a,basketball,,
+272,2022-11-04 16:46:25.363108,Élan Béarnais,Cholet,WIN,,,+245,elan-bearnais-pau-lacq-orthez-cholet-202211051500,lnb-pro-a,basketball,,
+273,2022-11-04 16:46:25.363108,Cholet,Élan Béarnais,WIN,,,-310,elan-bearnais-pau-lacq-orthez-cholet-202211051500,lnb-pro-a,basketball,,
+274,2022-11-04 16:46:25.363108,Élan Béarnais,Cholet,TOTAL,7.0,favorite,-110,elan-bearnais-pau-lacq-orthez-cholet-202211051500,lnb-pro-a,basketball,,
+275,2022-11-04 16:46:25.363108,Cholet,Élan Béarnais,TOTAL,7.0,favorite,-110,elan-bearnais-pau-lacq-orthez-cholet-202211051500,lnb-pro-a,basketball,,
+276,2022-11-04 16:46:25.454169,Niners Chemnitz,ratiopharm Ulm,SPREAD,4.5,favorite,-110,niners-chemnitz-ratiopharm-ulm-202211051300,bundesliga,basketball,,
+277,2022-11-04 16:46:25.454169,ratiopharm Ulm,Niners Chemnitz,SPREAD,4.5,favorite,-110,niners-chemnitz-ratiopharm-ulm-202211051300,bundesliga,basketball,,
+278,2022-11-04 16:46:25.454169,Niners Chemnitz,ratiopharm Ulm,WIN,,,+161,niners-chemnitz-ratiopharm-ulm-202211051300,bundesliga,basketball,,
+279,2022-11-04 16:46:25.454169,ratiopharm Ulm,Niners Chemnitz,WIN,,,-195,niners-chemnitz-ratiopharm-ulm-202211051300,bundesliga,basketball,,
+280,2022-11-04 16:46:25.454169,Niners Chemnitz,ratiopharm Ulm,TOTAL,4.5,favorite,-115,niners-chemnitz-ratiopharm-ulm-202211051300,bundesliga,basketball,,
+281,2022-11-04 16:46:25.454169,ratiopharm Ulm,Niners Chemnitz,TOTAL,4.5,favorite,-105,niners-chemnitz-ratiopharm-ulm-202211051300,bundesliga,basketball,,
+282,2022-11-04 16:46:25.617265,s.Oliver Würzburg,BG Göttingen,SPREAD,5.0,favorite,-110,s-oliver-wurzburg-bg-gottingen-202211051300,bundesliga,basketball,,
+283,2022-11-04 16:46:25.617265,BG Göttingen,s.Oliver Würzburg,SPREAD,5.0,favorite,-110,s-oliver-wurzburg-bg-gottingen-202211051300,bundesliga,basketball,,
+284,2022-11-04 16:46:25.617265,s.Oliver Würzburg,BG Göttingen,WIN,,,+190,s-oliver-wurzburg-bg-gottingen-202211051300,bundesliga,basketball,,
+285,2022-11-04 16:46:25.617265,BG Göttingen,s.Oliver Würzburg,WIN,,,-230,s-oliver-wurzburg-bg-gottingen-202211051300,bundesliga,basketball,,
+286,2022-11-04 16:46:25.617265,s.Oliver Würzburg,BG Göttingen,TOTAL,5.0,favorite,-105,s-oliver-wurzburg-bg-gottingen-202211051300,bundesliga,basketball,,
+287,2022-11-04 16:46:25.617265,BG Göttingen,s.Oliver Würzburg,TOTAL,5.0,favorite,-115,s-oliver-wurzburg-bg-gottingen-202211051300,bundesliga,basketball,,
+288,2022-11-04 16:46:25.728774,Heidelberg,Telekom Baskets Bonn,SPREAD,11.5,favorite,-110,heidelberg-telekom-baskets-bonn-202211051530,bundesliga,basketball,,
+289,2022-11-04 16:46:25.728774,Telekom Baskets Bonn,Heidelberg,SPREAD,11.5,favorite,-110,heidelberg-telekom-baskets-bonn-202211051530,bundesliga,basketball,,
+290,2022-11-04 16:46:25.728774,Heidelberg,Telekom Baskets Bonn,WIN,,,+500,heidelberg-telekom-baskets-bonn-202211051530,bundesliga,basketball,,
+291,2022-11-04 16:46:25.728774,Telekom Baskets Bonn,Heidelberg,WIN,,,-700,heidelberg-telekom-baskets-bonn-202211051530,bundesliga,basketball,,
+292,2022-11-04 16:46:25.728774,Heidelberg,Telekom Baskets Bonn,TOTAL,11.5,favorite,-110,heidelberg-telekom-baskets-bonn-202211051530,bundesliga,basketball,,
+293,2022-11-04 16:46:25.728774,Telekom Baskets Bonn,Heidelberg,TOTAL,11.5,favorite,-110,heidelberg-telekom-baskets-bonn-202211051530,bundesliga,basketball,,
+294,2022-11-04 16:46:25.834547,Mitteldeutscher BC,Crailsheim Merlins,SPREAD,8.0,favorite,-105,mitteldeutscher-bc-crailsheim-merlins-202211051530,bundesliga,basketball,,
+295,2022-11-04 16:46:25.834547,Crailsheim Merlins,Mitteldeutscher BC,SPREAD,8.0,favorite,-115,mitteldeutscher-bc-crailsheim-merlins-202211051530,bundesliga,basketball,,
+296,2022-11-04 16:46:25.834547,Mitteldeutscher BC,Crailsheim Merlins,WIN,,,+275,mitteldeutscher-bc-crailsheim-merlins-202211051530,bundesliga,basketball,,
+297,2022-11-04 16:46:25.834547,Crailsheim Merlins,Mitteldeutscher BC,WIN,,,-350,mitteldeutscher-bc-crailsheim-merlins-202211051530,bundesliga,basketball,,
+298,2022-11-04 16:46:25.834547,Mitteldeutscher BC,Crailsheim Merlins,TOTAL,8.0,favorite,-105,mitteldeutscher-bc-crailsheim-merlins-202211051530,bundesliga,basketball,,
+299,2022-11-04 16:46:25.834547,Crailsheim Merlins,Mitteldeutscher BC,TOTAL,8.0,favorite,-115,mitteldeutscher-bc-crailsheim-merlins-202211051530,bundesliga,basketball,,
+300,2022-11-04 16:46:25.945790,Baskets Oldenburg,Skyliners Frankfurt,SPREAD,4.0,underdog,-110,baskets-oldenburg-skyliners-frankfurt-202211060900,bundesliga,basketball,,
+301,2022-11-04 16:46:25.945790,Skyliners Frankfurt,Baskets Oldenburg,SPREAD,4.0,underdog,-110,baskets-oldenburg-skyliners-frankfurt-202211060900,bundesliga,basketball,,
+302,2022-11-04 16:46:25.945790,Baskets Oldenburg,Skyliners Frankfurt,WIN,,,-175,baskets-oldenburg-skyliners-frankfurt-202211060900,bundesliga,basketball,,
+303,2022-11-04 16:46:25.945790,Skyliners Frankfurt,Baskets Oldenburg,WIN,,,+153,baskets-oldenburg-skyliners-frankfurt-202211060900,bundesliga,basketball,,
+304,2022-11-04 16:46:25.945790,Baskets Oldenburg,Skyliners Frankfurt,TOTAL,4.0,underdog,-110,baskets-oldenburg-skyliners-frankfurt-202211060900,bundesliga,basketball,,
+305,2022-11-04 16:46:25.945790,Skyliners Frankfurt,Baskets Oldenburg,TOTAL,4.0,underdog,-110,baskets-oldenburg-skyliners-frankfurt-202211060900,bundesliga,basketball,,
+306,2022-11-04 16:46:26.056231,Brose Bamberg,Rostock Seawolves,SPREAD,6.5,favorite,-115,brose-bamberg-rostock-seawolves-202211060900,bundesliga,basketball,,
+307,2022-11-04 16:46:26.056231,Rostock Seawolves,Brose Bamberg,SPREAD,6.5,favorite,-105,brose-bamberg-rostock-seawolves-202211060900,bundesliga,basketball,,
+308,2022-11-04 16:46:26.056231,Brose Bamberg,Rostock Seawolves,WIN,,,+210,brose-bamberg-rostock-seawolves-202211060900,bundesliga,basketball,,
+309,2022-11-04 16:46:26.056231,Rostock Seawolves,Brose Bamberg,WIN,,,-260,brose-bamberg-rostock-seawolves-202211060900,bundesliga,basketball,,
+310,2022-11-04 16:46:26.056231,Brose Bamberg,Rostock Seawolves,TOTAL,6.5,favorite,-110,brose-bamberg-rostock-seawolves-202211060900,bundesliga,basketball,,
+311,2022-11-04 16:46:26.056231,Rostock Seawolves,Brose Bamberg,TOTAL,6.5,favorite,-110,brose-bamberg-rostock-seawolves-202211060900,bundesliga,basketball,,
+312,2022-11-04 16:46:26.163510,Hamburg Towers,MHP Riesen Ludwigsburg,SPREAD,6.0,favorite,-110,hamburg-towers-mhp-riesen-ludwigsburg-202211060900,bundesliga,basketball,,
+313,2022-11-04 16:46:26.163510,MHP Riesen Ludwigsburg,Hamburg Towers,SPREAD,6.0,favorite,-110,hamburg-towers-mhp-riesen-ludwigsburg-202211060900,bundesliga,basketball,,
+314,2022-11-04 16:46:26.163510,Hamburg Towers,MHP Riesen Ludwigsburg,WIN,,,+200,hamburg-towers-mhp-riesen-ludwigsburg-202211060900,bundesliga,basketball,,
+315,2022-11-04 16:46:26.163510,MHP Riesen Ludwigsburg,Hamburg Towers,WIN,,,-230,hamburg-towers-mhp-riesen-ludwigsburg-202211060900,bundesliga,basketball,,
+316,2022-11-04 16:46:26.163510,Hamburg Towers,MHP Riesen Ludwigsburg,TOTAL,6.0,favorite,-115,hamburg-towers-mhp-riesen-ludwigsburg-202211060900,bundesliga,basketball,,
+317,2022-11-04 16:46:26.163510,MHP Riesen Ludwigsburg,Hamburg Towers,TOTAL,6.0,favorite,-105,hamburg-towers-mhp-riesen-ludwigsburg-202211060900,bundesliga,basketball,,
+318,2022-11-04 16:46:26.277227,Medi Bayreuth,Bayern Munich,SPREAD,14.5,favorite,-115,medi-bayreuth-bayern-munich-202211061200,bundesliga,basketball,,
+319,2022-11-04 16:46:26.277227,Bayern Munich,Medi Bayreuth,SPREAD,14.5,favorite,-105,medi-bayreuth-bayern-munich-202211061200,bundesliga,basketball,,
+320,2022-11-04 16:46:26.277227,Medi Bayreuth,Bayern Munich,WIN,,,+775,medi-bayreuth-bayern-munich-202211061200,bundesliga,basketball,,
+321,2022-11-04 16:46:26.277227,Bayern Munich,Medi Bayreuth,WIN,,,-1100,medi-bayreuth-bayern-munich-202211061200,bundesliga,basketball,,
+322,2022-11-04 16:46:26.277227,Medi Bayreuth,Bayern Munich,TOTAL,14.5,favorite,-115,medi-bayreuth-bayern-munich-202211061200,bundesliga,basketball,,
+323,2022-11-04 16:46:26.277227,Bayern Munich,Medi Bayreuth,TOTAL,14.5,favorite,-105,medi-bayreuth-bayern-munich-202211061200,bundesliga,basketball,,
+324,2022-11-04 16:46:26.371039,Bnei Herzeliya,Hapoel Galil Elyon,SPREAD,2.0,underdog,-115,bnei-herzeliya-hapoel-galil-elyon-202211051200,super-league,basketball,,
+325,2022-11-04 16:46:26.371039,Hapoel Galil Elyon,Bnei Herzeliya,SPREAD,2.0,underdog,-115,bnei-herzeliya-hapoel-galil-elyon-202211051200,super-league,basketball,,
+326,2022-11-04 16:46:26.371039,Bnei Herzeliya,Hapoel Galil Elyon,WIN,,,-135,bnei-herzeliya-hapoel-galil-elyon-202211051200,super-league,basketball,,
+327,2022-11-04 16:46:26.371039,Hapoel Galil Elyon,Bnei Herzeliya,WIN,,,+105,bnei-herzeliya-hapoel-galil-elyon-202211051200,super-league,basketball,,
+328,2022-11-04 16:46:26.371039,Bnei Herzeliya,Hapoel Galil Elyon,TOTAL,2.0,underdog,-110,bnei-herzeliya-hapoel-galil-elyon-202211051200,super-league,basketball,,
+329,2022-11-04 16:46:26.371039,Hapoel Galil Elyon,Bnei Herzeliya,TOTAL,2.0,underdog,-120,bnei-herzeliya-hapoel-galil-elyon-202211051200,super-league,basketball,,
+330,2022-11-04 16:46:26.471613,Hapoel Holon,Hapoel Be'er Sheva,SPREAD,4.0,underdog,-115,hapoel-holon-hapoel-be-er-sheva-202211051400,super-league,basketball,,
+331,2022-11-04 16:46:26.471613,Hapoel Be'er Sheva,Hapoel Holon,SPREAD,4.0,underdog,-115,hapoel-holon-hapoel-be-er-sheva-202211051400,super-league,basketball,,
+332,2022-11-04 16:46:26.471613,Hapoel Holon,Hapoel Be'er Sheva,WIN,,,-200,hapoel-holon-hapoel-be-er-sheva-202211051400,super-league,basketball,,
+333,2022-11-04 16:46:26.471613,Hapoel Be'er Sheva,Hapoel Holon,WIN,,,+150,hapoel-holon-hapoel-be-er-sheva-202211051400,super-league,basketball,,
+334,2022-11-04 16:46:26.471613,Hapoel Holon,Hapoel Be'er Sheva,TOTAL,4.0,underdog,-115,hapoel-holon-hapoel-be-er-sheva-202211051400,super-league,basketball,,
+335,2022-11-04 16:46:26.471613,Hapoel Be'er Sheva,Hapoel Holon,TOTAL,4.0,underdog,-115,hapoel-holon-hapoel-be-er-sheva-202211051400,super-league,basketball,,
+336,2022-11-04 16:46:26.572129,Panevezio Lietkabelis,Nevezis,SPREAD,10.5,underdog,-115,panevezio-lietkabelis-nevezis-202211051000,lkl,basketball,,
+337,2022-11-04 16:46:26.572129,Nevezis,Panevezio Lietkabelis,SPREAD,10.5,underdog,-115,panevezio-lietkabelis-nevezis-202211051000,lkl,basketball,,
+338,2022-11-04 16:46:26.572129,Panevezio Lietkabelis,Nevezis,WIN,,,-650,panevezio-lietkabelis-nevezis-202211051000,lkl,basketball,,
+339,2022-11-04 16:46:26.572129,Nevezis,Panevezio Lietkabelis,WIN,,,+400,panevezio-lietkabelis-nevezis-202211051000,lkl,basketball,,
+340,2022-11-04 16:46:26.572129,Panevezio Lietkabelis,Nevezis,TOTAL,10.5,underdog,-115,panevezio-lietkabelis-nevezis-202211051000,lkl,basketball,,
+341,2022-11-04 16:46:26.572129,Nevezis,Panevezio Lietkabelis,TOTAL,10.5,underdog,-115,panevezio-lietkabelis-nevezis-202211051000,lkl,basketball,,
+342,2022-11-04 16:46:26.678560,Juventus,Pieno Zvaigzdes,SPREAD,1.5,underdog,-115,juventus-pieno-zvaigzdes-202211051100,lkl,basketball,,
+343,2022-11-04 16:46:26.678560,Pieno Zvaigzdes,Juventus,SPREAD,1.5,underdog,-115,juventus-pieno-zvaigzdes-202211051100,lkl,basketball,,
+344,2022-11-04 16:46:26.678560,Juventus,Pieno Zvaigzdes,WIN,,,-120,juventus-pieno-zvaigzdes-202211051100,lkl,basketball,,
+345,2022-11-04 16:46:26.678560,Pieno Zvaigzdes,Juventus,WIN,,,-110,juventus-pieno-zvaigzdes-202211051100,lkl,basketball,,
+346,2022-11-04 16:46:26.678560,Juventus,Pieno Zvaigzdes,TOTAL,1.5,underdog,-115,juventus-pieno-zvaigzdes-202211051100,lkl,basketball,,
+347,2022-11-04 16:46:26.678560,Pieno Zvaigzdes,Juventus,TOTAL,1.5,underdog,-115,juventus-pieno-zvaigzdes-202211051100,lkl,basketball,,
+348,2022-11-04 16:46:26.799862,BC Wolves,Klaipedos Neptunas,SPREAD,5.5,underdog,-115,bc-wolves-klaipedos-neptunas-202211051120,lkl,basketball,,
+349,2022-11-04 16:46:26.799862,Klaipedos Neptunas,BC Wolves,SPREAD,5.5,underdog,-115,bc-wolves-klaipedos-neptunas-202211051120,lkl,basketball,,
+350,2022-11-04 16:46:26.799862,BC Wolves,Klaipedos Neptunas,WIN,,,-185,bc-wolves-klaipedos-neptunas-202211051120,lkl,basketball,,
+351,2022-11-04 16:46:26.799862,Klaipedos Neptunas,BC Wolves,WIN,,,+133,bc-wolves-klaipedos-neptunas-202211051120,lkl,basketball,,
+352,2022-11-04 16:46:26.799862,BC Wolves,Klaipedos Neptunas,TOTAL,5.5,underdog,-120,bc-wolves-klaipedos-neptunas-202211051120,lkl,basketball,,
+353,2022-11-04 16:46:26.799862,Klaipedos Neptunas,BC Wolves,TOTAL,5.5,underdog,-110,bc-wolves-klaipedos-neptunas-202211051120,lkl,basketball,,
+354,2022-11-04 16:46:26.952204,Manresa,Fuenlabrada,SPREAD,1.0,underdog,-105,manresa-fuenlabrada-202211051300,liga-acb,basketball,,
+355,2022-11-04 16:46:26.952204,Fuenlabrada,Manresa,SPREAD,1.0,underdog,-115,manresa-fuenlabrada-202211051300,liga-acb,basketball,,
+356,2022-11-04 16:46:26.952204,Manresa,Fuenlabrada,WIN,,,-110,manresa-fuenlabrada-202211051300,liga-acb,basketball,,
+357,2022-11-04 16:46:26.952204,Fuenlabrada,Manresa,WIN,,,-110,manresa-fuenlabrada-202211051300,liga-acb,basketball,,
+358,2022-11-04 16:46:26.952204,Manresa,Fuenlabrada,TOTAL,1.0,underdog,-110,manresa-fuenlabrada-202211051300,liga-acb,basketball,,
+359,2022-11-04 16:46:26.952204,Fuenlabrada,Manresa,TOTAL,1.0,underdog,-110,manresa-fuenlabrada-202211051300,liga-acb,basketball,,
+360,2022-11-04 16:46:27.045818,Petkim Spor,Bahçeşehir Koleji,SPREAD,5.5,favorite,-105,petkim-spor-bahcesehir-koleji-202211050600,super-ligi,basketball,,
+361,2022-11-04 16:46:27.045818,Bahçeşehir Koleji,Petkim Spor,SPREAD,5.5,favorite,-115,petkim-spor-bahcesehir-koleji-202211050600,super-ligi,basketball,,
+362,2022-11-04 16:46:27.045818,Petkim Spor,Bahçeşehir Koleji,WIN,,,+220,petkim-spor-bahcesehir-koleji-202211050600,super-ligi,basketball,,
+363,2022-11-04 16:46:27.045818,Bahçeşehir Koleji,Petkim Spor,WIN,,,-275,petkim-spor-bahcesehir-koleji-202211050600,super-ligi,basketball,,
+364,2022-11-04 16:46:27.045818,Petkim Spor,Bahçeşehir Koleji,TOTAL,5.5,favorite,-115,petkim-spor-bahcesehir-koleji-202211050600,super-ligi,basketball,,
+365,2022-11-04 16:46:27.045818,Bahçeşehir Koleji,Petkim Spor,TOTAL,5.5,favorite,-105,petkim-spor-bahcesehir-koleji-202211050600,super-ligi,basketball,,
+366,2022-11-04 16:46:27.137190,Merkezefendi Belediyesi,Konyaspor,SPREAD,6.0,favorite,-120,merkezefendi-belediyesi-konyaspor-202211050830,super-ligi,basketball,,
+367,2022-11-04 16:46:27.137190,Konyaspor,Merkezefendi Belediyesi,SPREAD,6.0,favorite,EVEN,merkezefendi-belediyesi-konyaspor-202211050830,super-ligi,basketball,,
+368,2022-11-04 16:46:27.137190,Merkezefendi Belediyesi,Konyaspor,WIN,,,+210,merkezefendi-belediyesi-konyaspor-202211050830,super-ligi,basketball,,
+369,2022-11-04 16:46:27.137190,Konyaspor,Merkezefendi Belediyesi,WIN,,,-260,merkezefendi-belediyesi-konyaspor-202211050830,super-ligi,basketball,,
+370,2022-11-04 16:46:27.137190,Merkezefendi Belediyesi,Konyaspor,TOTAL,6.0,favorite,-110,merkezefendi-belediyesi-konyaspor-202211050830,super-ligi,basketball,,
+371,2022-11-04 16:46:27.137190,Konyaspor,Merkezefendi Belediyesi,TOTAL,6.0,favorite,-110,merkezefendi-belediyesi-konyaspor-202211050830,super-ligi,basketball,,
+372,2022-11-04 16:46:27.233242,Türk Telekom,Manisa,SPREAD,6.5,underdog,-115,turk-telekom-manisa-202211051100,super-ligi,basketball,,
+373,2022-11-04 16:46:27.233242,Manisa,Türk Telekom,SPREAD,6.5,underdog,-105,turk-telekom-manisa-202211051100,super-ligi,basketball,,
+374,2022-11-04 16:46:27.233242,Türk Telekom,Manisa,WIN,,,-285,turk-telekom-manisa-202211051100,super-ligi,basketball,,
+375,2022-11-04 16:46:27.233242,Manisa,Türk Telekom,WIN,,,+215,turk-telekom-manisa-202211051100,super-ligi,basketball,,
+376,2022-11-04 16:46:27.233242,Türk Telekom,Manisa,TOTAL,6.5,underdog,-110,turk-telekom-manisa-202211051100,super-ligi,basketball,,
+377,2022-11-04 16:46:27.233242,Manisa,Türk Telekom,TOTAL,6.5,underdog,-110,turk-telekom-manisa-202211051100,super-ligi,basketball,,
+378,2022-11-04 16:46:27.324182,Anadolu Efes,Büyükçekmece,SPREAD,17.5,underdog,-115,anadolu-efes-buyukcekmece-202211061000,super-ligi,basketball,,
+379,2022-11-04 16:46:27.324182,Büyükçekmece,Anadolu Efes,SPREAD,17.5,underdog,-105,anadolu-efes-buyukcekmece-202211061000,super-ligi,basketball,,
+380,2022-11-04 16:46:27.324182,Anadolu Efes,Büyükçekmece,WIN,,,-1600,anadolu-efes-buyukcekmece-202211061000,super-ligi,basketball,,
+381,2022-11-04 16:46:27.324182,Büyükçekmece,Anadolu Efes,WIN,,,+850,anadolu-efes-buyukcekmece-202211061000,super-ligi,basketball,,
+382,2022-11-04 16:46:27.324182,Anadolu Efes,Büyükçekmece,TOTAL,17.5,underdog,-110,anadolu-efes-buyukcekmece-202211061000,super-ligi,basketball,,
+383,2022-11-04 16:46:27.324182,Büyükçekmece,Anadolu Efes,TOTAL,17.5,underdog,-110,anadolu-efes-buyukcekmece-202211061000,super-ligi,basketball,,
+384,2022-11-04 16:46:27.420016,Darüssafaka Tekfen,Bursaspor,SPREAD,2.5,favorite,-105,darussafaka-tekfen-bursaspor-202211061000,super-ligi,basketball,,
+385,2022-11-04 16:46:27.420016,Bursaspor,Darüssafaka Tekfen,SPREAD,2.5,favorite,-115,darussafaka-tekfen-bursaspor-202211061000,super-ligi,basketball,,
+386,2022-11-04 16:46:27.420016,Darüssafaka Tekfen,Bursaspor,WIN,,,+115,darussafaka-tekfen-bursaspor-202211061000,super-ligi,basketball,,
+387,2022-11-04 16:46:27.420016,Bursaspor,Darüssafaka Tekfen,WIN,,,-140,darussafaka-tekfen-bursaspor-202211061000,super-ligi,basketball,,
+388,2022-11-04 16:46:27.420016,Darüssafaka Tekfen,Bursaspor,TOTAL,2.5,favorite,-115,darussafaka-tekfen-bursaspor-202211061000,super-ligi,basketball,,
+389,2022-11-04 16:46:27.420016,Bursaspor,Darüssafaka Tekfen,TOTAL,2.5,favorite,-105,darussafaka-tekfen-bursaspor-202211061000,super-ligi,basketball,,
+390,2022-11-04 16:46:27.512391,Fenerbahce,Besiktas,SPREAD,13.0,underdog,-110,fenerbahce-besiktas-202211061000,super-ligi,basketball,,
+391,2022-11-04 16:46:27.512391,Besiktas,Fenerbahce,SPREAD,13.0,underdog,-110,fenerbahce-besiktas-202211061000,super-ligi,basketball,,
+392,2022-11-04 16:46:27.512391,Fenerbahce,Besiktas,WIN,,,-850,fenerbahce-besiktas-202211061000,super-ligi,basketball,,
+393,2022-11-04 16:46:27.512391,Besiktas,Fenerbahce,WIN,,,+550,fenerbahce-besiktas-202211061000,super-ligi,basketball,,
+394,2022-11-04 16:46:27.512391,Fenerbahce,Besiktas,TOTAL,13.0,underdog,-110,fenerbahce-besiktas-202211061000,super-ligi,basketball,,
+395,2022-11-04 16:46:27.512391,Besiktas,Fenerbahce,TOTAL,13.0,underdog,-110,fenerbahce-besiktas-202211061000,super-ligi,basketball,,
+396,2022-11-04 16:46:27.613619,Gaziantep,Pinar Karsiyaka,SPREAD,3.5,favorite,-110,gaziantep-pinar-karsiyaka-202211061000,super-ligi,basketball,,
+397,2022-11-04 16:46:27.613619,Pinar Karsiyaka,Gaziantep,SPREAD,3.5,favorite,-110,gaziantep-pinar-karsiyaka-202211061000,super-ligi,basketball,,
+398,2022-11-04 16:46:27.613619,Gaziantep,Pinar Karsiyaka,WIN,,,+160,gaziantep-pinar-karsiyaka-202211061000,super-ligi,basketball,,
+399,2022-11-04 16:46:27.613619,Pinar Karsiyaka,Gaziantep,WIN,,,-195,gaziantep-pinar-karsiyaka-202211061000,super-ligi,basketball,,
+400,2022-11-04 16:46:27.613619,Gaziantep,Pinar Karsiyaka,TOTAL,3.5,favorite,-110,gaziantep-pinar-karsiyaka-202211061000,super-ligi,basketball,,
+401,2022-11-04 16:46:27.613619,Pinar Karsiyaka,Gaziantep,TOTAL,3.5,favorite,-110,gaziantep-pinar-karsiyaka-202211061000,super-ligi,basketball,,
+402,2022-11-04 16:46:27.703909,Samsunspor,Fenerbahce Koleji,SPREAD,7.5,underdog,-120,samsunspor-fenerbahce-koleji-202211050700,tbl,basketball,,
+403,2022-11-04 16:46:27.703909,Fenerbahce Koleji,Samsunspor,SPREAD,7.5,underdog,-120,samsunspor-fenerbahce-koleji-202211050700,tbl,basketball,,
+404,2022-11-04 16:46:27.703909,Samsunspor,Fenerbahce Koleji,WIN,,,-330,samsunspor-fenerbahce-koleji-202211050700,tbl,basketball,,
+405,2022-11-04 16:46:27.703909,Fenerbahce Koleji,Samsunspor,WIN,,,+220,samsunspor-fenerbahce-koleji-202211050700,tbl,basketball,,
+406,2022-11-04 16:46:27.703909,Samsunspor,Fenerbahce Koleji,TOTAL,7.5,underdog,-120,samsunspor-fenerbahce-koleji-202211050700,tbl,basketball,,
+407,2022-11-04 16:46:27.703909,Fenerbahce Koleji,Samsunspor,TOTAL,7.5,underdog,-120,samsunspor-fenerbahce-koleji-202211050700,tbl,basketball,,
+408,2022-11-04 16:46:27.790089,Balikesir BŞB,Bornova Bld,SPREAD,1.0,underdog,-120,balikesir-bsb-bornova-bld-202211050845,tbl,basketball,,
+409,2022-11-04 16:46:27.790089,Bornova Bld,Balikesir BŞB,SPREAD,1.0,underdog,-120,balikesir-bsb-bornova-bld-202211050845,tbl,basketball,,
+410,2022-11-04 16:46:27.790089,Balikesir BŞB,Bornova Bld,WIN,,,-125,balikesir-bsb-bornova-bld-202211050845,tbl,basketball,,
+411,2022-11-04 16:46:27.790089,Bornova Bld,Balikesir BŞB,WIN,,,-115,balikesir-bsb-bornova-bld-202211050845,tbl,basketball,,
+412,2022-11-04 16:46:27.790089,Balikesir BŞB,Bornova Bld,TOTAL,1.0,underdog,-115,balikesir-bsb-bornova-bld-202211050845,tbl,basketball,,
+413,2022-11-04 16:46:27.790089,Bornova Bld,Balikesir BŞB,TOTAL,1.0,underdog,-125,balikesir-bsb-bornova-bld-202211050845,tbl,basketball,,
+414,2022-11-04 16:46:27.886988,Budućnost,Igokea Aleksandrovac,SPREAD,2.5,underdog,-120,buducnost-kk-igokea-202211051400,aba-league,basketball,,
+415,2022-11-04 16:46:27.886988,Igokea Aleksandrovac,Budućnost,SPREAD,2.5,underdog,-120,buducnost-kk-igokea-202211051400,aba-league,basketball,,
+416,2022-11-04 16:46:27.886988,Budućnost,Igokea Aleksandrovac,WIN,,,-150,buducnost-kk-igokea-202211051400,aba-league,basketball,,
+417,2022-11-04 16:46:27.886988,Igokea Aleksandrovac,Budućnost,WIN,,,+105,buducnost-kk-igokea-202211051400,aba-league,basketball,,
+418,2022-11-04 16:46:27.886988,Budućnost,Igokea Aleksandrovac,TOTAL,2.5,underdog,-120,buducnost-kk-igokea-202211051400,aba-league,basketball,,
+419,2022-11-04 16:46:27.886988,Igokea Aleksandrovac,Budućnost,TOTAL,2.5,underdog,-120,buducnost-kk-igokea-202211051400,aba-league,basketball,,
+420,2022-11-04 16:46:27.979292,Donar Groningen,Apollo Amsterdam,SPREAD,17.0,underdog,-120,donar-groningen-apollo-amsterdam-202211051030,bnxt-league,basketball,,
+421,2022-11-04 16:46:27.979292,Apollo Amsterdam,Donar Groningen,SPREAD,17.0,underdog,-120,donar-groningen-apollo-amsterdam-202211051030,bnxt-league,basketball,,
+422,2022-11-04 16:46:27.979292,Donar Groningen,Apollo Amsterdam,WIN,,,-1800,donar-groningen-apollo-amsterdam-202211051030,bnxt-league,basketball,,
+423,2022-11-04 16:46:27.979292,Apollo Amsterdam,Donar Groningen,WIN,,,+700,donar-groningen-apollo-amsterdam-202211051030,bnxt-league,basketball,,
+424,2022-11-04 16:46:27.979292,Donar Groningen,Apollo Amsterdam,TOTAL,17.0,underdog,-120,donar-groningen-apollo-amsterdam-202211051030,bnxt-league,basketball,,
+425,2022-11-04 16:46:27.979292,Apollo Amsterdam,Donar Groningen,TOTAL,17.0,underdog,-120,donar-groningen-apollo-amsterdam-202211051030,bnxt-league,basketball,,
+426,2022-11-04 16:46:28.069739,Güssing/Jennersdorf,Mistelbach Mustangs,SPREAD,7.0,favorite,-115,gussing-jennersdorf-mistelbach-mustangs-202211051200,austria-2-liga,basketball,,
+427,2022-11-04 16:46:28.069739,Mistelbach Mustangs,Güssing/Jennersdorf,SPREAD,7.0,favorite,-125,gussing-jennersdorf-mistelbach-mustangs-202211051200,austria-2-liga,basketball,,
+428,2022-11-04 16:46:28.069739,Güssing/Jennersdorf,Mistelbach Mustangs,WIN,,,+220,gussing-jennersdorf-mistelbach-mustangs-202211051200,austria-2-liga,basketball,,
+429,2022-11-04 16:46:28.069739,Mistelbach Mustangs,Güssing/Jennersdorf,WIN,,,-330,gussing-jennersdorf-mistelbach-mustangs-202211051200,austria-2-liga,basketball,,
+430,2022-11-04 16:46:28.069739,Güssing/Jennersdorf,Mistelbach Mustangs,TOTAL,7.0,favorite,-125,gussing-jennersdorf-mistelbach-mustangs-202211051200,austria-2-liga,basketball,,
+431,2022-11-04 16:46:28.069739,Mistelbach Mustangs,Güssing/Jennersdorf,TOTAL,7.0,favorite,-115,gussing-jennersdorf-mistelbach-mustangs-202211051200,austria-2-liga,basketball,,
+432,2022-11-04 16:46:28.155780,BC Vienna,Vienna Timberwolves,SPREAD,16.5,underdog,-120,bc-vienna-vienna-timberwolves-202211051230,superliga,basketball,,
+433,2022-11-04 16:46:28.155780,Vienna Timberwolves,BC Vienna,SPREAD,16.5,underdog,-120,bc-vienna-vienna-timberwolves-202211051230,superliga,basketball,,
+434,2022-11-04 16:46:28.155780,BC Vienna,Vienna Timberwolves,WIN,,,-2500,bc-vienna-vienna-timberwolves-202211051230,superliga,basketball,,
+435,2022-11-04 16:46:28.155780,Vienna Timberwolves,BC Vienna,WIN,,,+700,bc-vienna-vienna-timberwolves-202211051230,superliga,basketball,,
+436,2022-11-04 16:46:28.155780,BC Vienna,Vienna Timberwolves,TOTAL,16.5,underdog,-120,bc-vienna-vienna-timberwolves-202211051230,superliga,basketball,,
+437,2022-11-04 16:46:28.155780,Vienna Timberwolves,BC Vienna,TOTAL,16.5,underdog,-120,bc-vienna-vienna-timberwolves-202211051230,superliga,basketball,,
+438,2022-11-04 16:46:28.256243,Fürstenfeld Panthers,Flyers Wels,SPREAD,18.5,favorite,-115,furstenfeld-panthers-flyers-wels-202211051230,superliga,basketball,,
+439,2022-11-04 16:46:28.256243,Flyers Wels,Fürstenfeld Panthers,SPREAD,18.5,favorite,-125,furstenfeld-panthers-flyers-wels-202211051230,superliga,basketball,,
+440,2022-11-04 16:46:28.256243,Fürstenfeld Panthers,Flyers Wels,WIN,,,+850,furstenfeld-panthers-flyers-wels-202211051230,superliga,basketball,,
+441,2022-11-04 16:46:28.256243,Flyers Wels,Fürstenfeld Panthers,WIN,,,-2500,furstenfeld-panthers-flyers-wels-202211051230,superliga,basketball,,
+442,2022-11-04 16:46:28.256243,Fürstenfeld Panthers,Flyers Wels,TOTAL,18.5,favorite,-120,furstenfeld-panthers-flyers-wels-202211051230,superliga,basketball,,
+443,2022-11-04 16:46:28.256243,Flyers Wels,Fürstenfeld Panthers,TOTAL,18.5,favorite,-120,furstenfeld-panthers-flyers-wels-202211051230,superliga,basketball,,
+444,2022-11-04 16:46:28.349450,Klosterneuburg Dukes,BBC Nord Dragonz,SPREAD,4.0,underdog,-125,klosterneuburg-dukes-bbc-nord-dragonz-202211051230,superliga,basketball,,
+445,2022-11-04 16:46:28.349450,BBC Nord Dragonz,Klosterneuburg Dukes,SPREAD,4.0,underdog,-115,klosterneuburg-dukes-bbc-nord-dragonz-202211051230,superliga,basketball,,
+446,2022-11-04 16:46:28.349450,Klosterneuburg Dukes,BBC Nord Dragonz,WIN,,,-205,klosterneuburg-dukes-bbc-nord-dragonz-202211051230,superliga,basketball,,
+447,2022-11-04 16:46:28.349450,BBC Nord Dragonz,Klosterneuburg Dukes,WIN,,,+148,klosterneuburg-dukes-bbc-nord-dragonz-202211051230,superliga,basketball,,
+448,2022-11-04 16:46:28.349450,Klosterneuburg Dukes,BBC Nord Dragonz,TOTAL,4.0,underdog,-120,klosterneuburg-dukes-bbc-nord-dragonz-202211051230,superliga,basketball,,
+449,2022-11-04 16:46:28.349450,BBC Nord Dragonz,Klosterneuburg Dukes,TOTAL,4.0,underdog,-120,klosterneuburg-dukes-bbc-nord-dragonz-202211051230,superliga,basketball,,
+450,2022-11-04 16:46:28.437350,Swans Gmunden,SKN Saint Pölten,SPREAD,9.5,underdog,-120,swans-gmunden-skn-saint-polten-202211051230,superliga,basketball,,
+451,2022-11-04 16:46:28.437350,SKN Saint Pölten,Swans Gmunden,SPREAD,9.5,underdog,-120,swans-gmunden-skn-saint-polten-202211051230,superliga,basketball,,
+452,2022-11-04 16:46:28.437350,Swans Gmunden,SKN Saint Pölten,WIN,,,-550,swans-gmunden-skn-saint-polten-202211051230,superliga,basketball,,
+453,2022-11-04 16:46:28.437350,SKN Saint Pölten,Swans Gmunden,WIN,,,+300,swans-gmunden-skn-saint-polten-202211051230,superliga,basketball,,
+454,2022-11-04 16:46:28.437350,Swans Gmunden,SKN Saint Pölten,TOTAL,9.5,underdog,-120,swans-gmunden-skn-saint-polten-202211051230,superliga,basketball,,
+455,2022-11-04 16:46:28.437350,SKN Saint Pölten,Swans Gmunden,TOTAL,9.5,underdog,-120,swans-gmunden-skn-saint-polten-202211051230,superliga,basketball,,
+456,2022-11-04 16:46:28.524221,Traiskirchen Lions,UBSC Graz,SPREAD,10.0,favorite,-125,traiskirchen-lions-ubsc-graz-202211051230,superliga,basketball,,
+457,2022-11-04 16:46:28.524221,UBSC Graz,Traiskirchen Lions,SPREAD,10.0,favorite,-115,traiskirchen-lions-ubsc-graz-202211051230,superliga,basketball,,
+458,2022-11-04 16:46:28.524221,Traiskirchen Lions,UBSC Graz,WIN,,,+350,traiskirchen-lions-ubsc-graz-202211051230,superliga,basketball,,
+459,2022-11-04 16:46:28.524221,UBSC Graz,Traiskirchen Lions,WIN,,,-600,traiskirchen-lions-ubsc-graz-202211051230,superliga,basketball,,
+460,2022-11-04 16:46:28.524221,Traiskirchen Lions,UBSC Graz,TOTAL,10.0,favorite,-125,traiskirchen-lions-ubsc-graz-202211051230,superliga,basketball,,
+461,2022-11-04 16:46:28.524221,UBSC Graz,Traiskirchen Lions,TOTAL,10.0,favorite,-115,traiskirchen-lions-ubsc-graz-202211051230,superliga,basketball,,
